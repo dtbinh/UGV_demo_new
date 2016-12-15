@@ -1,0 +1,50 @@
+\select@language {english}
+\contentsline {part}{I\hspace {1em}Reference Manual}{5}
+\contentsline {section}{\numberline {0.1}Referenced documents and websites}{7}
+\contentsline {chapter}{\numberline {1}The SML World}{9}
+\contentsline {chapter}{\numberline {2}System Setup}{11}
+\contentsline {section}{\numberline {2.1}Hardware setup}{11}
+\contentsline {subsection}{\numberline {2.1.1}The Qualisys positioning system}{11}
+\contentsline {subsection}{\numberline {2.1.2}Projectors and screens}{11}
+\contentsline {subsection}{\numberline {2.1.3}Moving and stationary objects}{12}
+\contentsline {section}{\numberline {2.2}Software setup}{12}
+\contentsline {chapter}{\numberline {3}Key SML World ROS Nodes}{13}
+\contentsline {section}{\numberline {3.1}The SML World central}{13}
+\contentsline {section}{\numberline {3.2}The visualization}{13}
+\contentsline {subsection}{\numberline {3.2.1}Pygame}{13}
+\contentsline {section}{\numberline {3.3}The road network}{13}
+\contentsline {section}{\numberline {3.4}The vehicle and other simulated objects}{14}
+\contentsline {subsection}{\numberline {3.4.1}Vehicle to Vehicle Communication}{14}
+\contentsline {section}{\numberline {3.5}Pedestrians}{15}
+\contentsline {subsection}{\numberline {3.5.1}Crosswalks}{15}
+\contentsline {section}{\numberline {3.6}Traffic intelligence}{15}
+\contentsline {subsection}{\numberline {3.6.1}Traffic lights}{15}
+\contentsline {subsection}{\numberline {3.6.2}Improved traffic flows}{15}
+\contentsline {subsubsection}{Calculating Traffic Levels}{15}
+\contentsline {subsubsection}{Obtaining Traffic Levels}{15}
+\contentsline {subsubsection}{Accounting for Traffic}{16}
+\contentsline {section}{\numberline {3.7}Bus network}{16}
+\contentsline {chapter}{\numberline {4}Radio Controlled Vehicles}{17}
+\contentsline {section}{\numberline {4.1}Controllers}{17}
+\contentsline {subsection}{\numberline {4.1.1}High level controller}{17}
+\contentsline {subsection}{\numberline {4.1.2}Low level controller}{17}
+\contentsline {subsection}{\numberline {4.1.3}Radar Integration}{18}
+\contentsline {subsection}{\numberline {4.1.4}Communication with SML World}{18}
+\contentsline {subsection}{\numberline {4.1.5}List of necessary hardware}{18}
+\contentsline {chapter}{\numberline {5}User Interfaces}{21}
+\contentsline {section}{\numberline {5.1}Terminal based interface}{21}
+\contentsline {section}{\numberline {5.2}Graphical user interface}{21}
+\contentsline {part}{II\hspace {1em}User Manual}{23}
+\contentsline {chapter}{\numberline {6}Running SML World}{25}
+\contentsline {section}{\numberline {6.1}Preparing to run SML World}{25}
+\contentsline {subsection}{\numberline {6.1.1}Required third-party software}{25}
+\contentsline {subsection}{\numberline {6.1.2}SML source code}{25}
+\contentsline {subsection}{\numberline {6.1.3}Notes on SML World scenarios}{26}
+\contentsline {subsection}{\numberline {6.1.4}Configure pygame}{26}
+\contentsline {subsection}{\numberline {6.1.5}Configure launch files}{27}
+\contentsline {subsection}{\numberline {6.1.6}Notes on running SML World across multiple machines}{27}
+\contentsline {section}{\numberline {6.2}Running SML World}{28}
+\contentsline {subsection}{\numberline {6.2.1}Using command line}{28}
+\contentsline {subsection}{\numberline {6.2.2}Using the GUI}{29}
+\contentsline {section}{\numberline {6.3}Start radio controlled trucks}{30}
+\contentsline {subsection}{\numberline {6.3.1}Shutdown}{30}

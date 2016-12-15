@@ -1,0 +1,1528 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <bounds minlat='59.4021701' minlon='17.9464138' maxlat='59.4041224' maxlon='17.9506409' origin='CGImap 0.5.8 (5969 thorn-02.openstreetmap.org)' />
+  <node id='-2361' action='modify' visible='true' lat='59.40317668457' lon='17.94687743953'>
+    <tag k='destination' v='stop' />
+  </node>
+  <node id='-2362' action='modify' visible='true' lat='59.40248710485' lon='17.94774414558' />
+  <node id='-2364' action='modify' visible='true' lat='59.40251557988' lon='17.94784587839' />
+  <node id='-2365' action='modify' visible='true' lat='59.40320691488' lon='17.94698626013' />
+  <node id='-2370' action='modify' visible='true' lat='59.40254604553' lon='17.94793793384' />
+  <node id='-2378' action='modify' visible='true' lat='59.40323698067' lon='17.94708678795' />
+  <node id='-2379' action='modify' visible='true' lat='59.40326547752' lon='17.94705106775' />
+  <node id='-2380' action='modify' visible='true' lat='59.40327915315' lon='17.94704381043' />
+  <node id='-2381' action='modify' visible='true' lat='59.40329272514' lon='17.94704887467' />
+  <node id='-2382' action='modify' visible='true' lat='59.40330283949' lon='17.94706916261' />
+  <node id='-2383' action='modify' visible='true' lat='59.40331143206' lon='17.9470926164' />
+  <node id='-2384' action='modify' visible='true' lat='59.40351015035' lon='17.9476520188' />
+  <node id='-2385' action='modify' visible='true' lat='59.4037899898' lon='17.94849911348' />
+  <node id='-2406' action='modify' visible='true' lat='59.40324688838' lon='17.94693610468' />
+  <node id='-2407' action='modify' visible='true' lat='59.40328321309' lon='17.94690618543' />
+  <node id='-2408' action='modify' visible='true' lat='59.40332775743' lon='17.94691001504' />
+  <node id='-2409' action='modify' visible='true' lat='59.40336010641' lon='17.94696032883' />
+  <node id='-2410' action='modify' visible='true' lat='59.40338529631' lon='17.94702453242' />
+  <node id='-2411' action='modify' visible='true' lat='59.40357650275' lon='17.94758534624' />
+  <node id='-2438' action='modify' visible='true' lat='59.4039089927' lon='17.94836453034' />
+  <node id='-2439' action='modify' visible='true' lat='59.40362926311' lon='17.94749621785' />
+  <node id='-2440' action='modify' visible='true' lat='59.40345086799' lon='17.94696391142' />
+  <node id='-2441' action='modify' visible='true' lat='59.40341077759' lon='17.94685389655' />
+  <node id='-2442' action='modify' visible='true' lat='59.40335195779' lon='17.94677205686' />
+  <node id='-2443' action='modify' visible='true' lat='59.40328364913' lon='17.9467680156' />
+  <node id='-2444' action='modify' visible='true' lat='59.40322490966' lon='17.94681466159' />
+  <node id='-2462' action='modify' visible='true' lat='59.40299167643' lon='17.94948447918' />
+  <node id='-2463' action='modify' visible='true' lat='59.40253217756' lon='17.94814252113' />
+  <node id='-2465' action='modify' visible='true' lat='59.402489055' lon='17.94820588097' />
+  <node id='-2466' action='modify' visible='true' lat='59.40293650142' lon='17.94956998195' />
+  <node id='-2473' action='modify' visible='true' lat='59.40243039997' lon='17.94826052455' />
+  <node id='-2474' action='modify' visible='true' lat='59.40288047566' lon='17.94963469667'>
+    <tag k='destination' v='stop' />
+  </node>
+  <node id='-2479' action='modify' visible='true' lat='59.40376731955' lon='17.94875487169' />
+  <node id='-2480' action='modify' visible='true' lat='59.40312995473' lon='17.9495339637' />
+  <node id='-2492' action='modify' visible='true' lat='59.40379429906' lon='17.94888874191' />
+  <node id='-2493' action='modify' visible='true' lat='59.40317703837' lon='17.94967904322' />
+  <node id='-2498' action='modify' visible='true' lat='59.40322516444' lon='17.94982675506' />
+  <node id='-2499' action='modify' visible='true' lat='59.40383730108' lon='17.94902668533' />
+  <node id='-2506' action='modify' visible='true' lat='59.40293089807' lon='17.94977652279' />
+  <node id='-2508' action='modify' visible='true' lat='59.40299215447' lon='17.94988435336' />
+  <node id='-2510' action='modify' visible='true' lat='59.4030729969' lon='17.949921589' />
+  <node id='-2511' action='modify' visible='true' lat='59.40314914536' lon='17.94990136917' />
+  <node id='-2530' action='modify' visible='true' lat='59.40312866473' lon='17.94973080411' />
+  <node id='-2531' action='modify' visible='true' lat='59.40307117028' lon='17.94975883331' />
+  <node id='-2532' action='modify' visible='true' lat='59.40301254429' lon='17.94973834655' />
+  <node id='-2533' action='modify' visible='true' lat='59.40297507935' lon='17.94967793484' />
+  <node id='-2550' action='modify' visible='true' lat='59.40309393417' lon='17.949580249' />
+  <node id='-2551' action='modify' visible='true' lat='59.40306781223' lon='17.94959976009' />
+  <node id='-2552' action='modify' visible='true' lat='59.40303758886' lon='17.94959293866' />
+  <node id='-2553' action='modify' visible='true' lat='59.4030191164' lon='17.94955896858' />
+  <node id='-2599' action='modify' visible='true' lat='59.40389846359' lon='17.94892967418' />
+  <node id='-2600' action='modify' visible='true' lat='59.4039506561' lon='17.94879391408' />
+  <node id='-2601' action='modify' visible='true' lat='59.40396504809' lon='17.94863732696' />
+  <node id='-2602' action='modify' visible='true' lat='59.40395191727' lon='17.948497118' />
+  <node id='-2605' action='modify' visible='true' lat='59.40385115779' lon='17.94843244264' />
+  <node id='-2606' action='modify' visible='true' lat='59.40388340788' lon='17.94853631394' />
+  <node id='-2607' action='modify' visible='true' lat='59.40389412769' lon='17.94863842501' />
+  <node id='-2608' action='modify' visible='true' lat='59.40387887592' lon='17.94874123213' />
+  <node id='-2609' action='modify' visible='true' lat='59.40383552045' lon='17.94883502871' />
+  <node id='-2615' action='modify' visible='true' lat='59.40380896014' lon='17.94857265744' />
+  <node id='-2616' action='modify' visible='true' lat='59.403816041' lon='17.94863389032' />
+  <node id='-2617' action='modify' visible='true' lat='59.40380851169' lon='17.94868959192' />
+  <node id='-2618' action='modify' visible='true' lat='59.4037884229' lon='17.94872507404' />
+  <node id='-2622' action='modify' visible='true' lat='59.40242682138' lon='17.94782853001' />
+  <node id='-2623' action='modify' visible='true' lat='59.40239507583' lon='17.94794362669' />
+  <node id='-2624' action='modify' visible='true' lat='59.40238421829' lon='17.94805564134' />
+  <node id='-2625' action='modify' visible='true' lat='59.40239852328' lon='17.94815892152' />
+  <node id='-2629' action='modify' visible='true' lat='59.40245903805' lon='17.94811426438' />
+  <node id='-2630' action='modify' visible='true' lat='59.40244536283' lon='17.9480578755' />
+  <node id='-2631' action='modify' visible='true' lat='59.40244581719' lon='17.94798844835' />
+  <node id='-2632' action='modify' visible='true' lat='59.40246682622' lon='17.94791284342' />
+  <node id='-2636' action='modify' visible='true' lat='59.40251696391' lon='17.94809915413' />
+  <node id='-2637' action='modify' visible='true' lat='59.40250611711' lon='17.94806369139' />
+  <node id='-2638' action='modify' visible='true' lat='59.40250529345' lon='17.94801924033' />
+  <node id='-2639' action='modify' visible='true' lat='59.40251602098' lon='17.94798197082' />
+  <node id='-2927' action='modify' visible='true' lat='59.40314402334' lon='17.94838267033'>
+    <tag k='origin' v='true' />
+  </node>
+  <node id='609242' action='delete' timestamp='2013-09-21T18:38:41Z' uid='28775' user='StellanL' visible='true' version='3' changeset='17961610' lat='59.4064887' lon='17.9450009' />
+  <node id='609250' action='delete' timestamp='2009-07-24T05:22:30Z' uid='147572' user='granito' visible='true' version='5' changeset='1921100' lat='59.4029988' lon='17.949933' />
+  <node id='5499049' action='delete' timestamp='2012-02-08T08:25:16Z' uid='4592' user='Mirarkitty' visible='true' version='4' changeset='10621620' lat='59.4019923' lon='17.9471884' />
+  <node id='5499053' action='delete' timestamp='2012-02-08T08:25:16Z' uid='4592' user='Mirarkitty' visible='true' version='4' changeset='10621620' lat='59.4023647' lon='17.9466353' />
+  <node id='103780485' action='delete' timestamp='2007-11-09T09:54:19Z' uid='18459' user='liftarn' visible='true' version='1' changeset='450289' lat='59.4029761' lon='17.9454798' />
+  <node id='103780488' action='delete' timestamp='2014-03-16T16:54:28Z' uid='76269' user='Snusmumriken' visible='true' version='5' changeset='21139816' lat='59.4029455' lon='17.9438092' />
+  <node id='147940696' action='delete' timestamp='2009-09-09T19:43:59Z' uid='35018' user='WingedStone' visible='true' version='2' changeset='2428635' lat='59.4033631' lon='17.947043' />
+  <node id='147940700' action='delete' timestamp='2012-11-22T20:00:34Z' uid='28775' user='StellanL' visible='true' version='3' changeset='13990273' lat='59.4040213' lon='17.948978' />
+  <node id='147940705' action='delete' timestamp='2013-09-20T20:11:29Z' uid='28775' user='StellanL' visible='true' version='5' changeset='17946277' lat='59.4048758' lon='17.9516181' />
+  <node id='239784467' action='delete' timestamp='2012-11-22T20:00:33Z' uid='28775' user='StellanL' visible='true' version='3' changeset='13990273' lat='59.4038488' lon='17.9484634' />
+  <node id='256992040' action='delete' timestamp='2009-08-01T13:08:24Z' uid='147822' user='tmic' visible='true' version='2' changeset='2003056' lat='59.405002' lon='17.9520079' />
+  <node id='259527614' action='delete' timestamp='2013-07-24T00:21:01Z' uid='28775' user='StellanL' visible='true' version='4' changeset='17069263' lat='59.4025327' lon='17.9505361' />
+  <node id='259527616' action='delete' timestamp='2016-04-13T16:01:29Z' uid='622545' user='FredN' visible='true' version='3' changeset='38530070' lat='59.4034786' lon='17.9534798' />
+  <node id='262775231' action='delete' timestamp='2014-03-16T16:54:29Z' uid='76269' user='Snusmumriken' visible='true' version='2' changeset='21139816' lat='59.4028234' lon='17.9434503' />
+  <node id='262775234' action='delete' timestamp='2014-03-16T16:54:29Z' uid='76269' user='Snusmumriken' visible='true' version='4' changeset='21139816' lat='59.4032389' lon='17.9463106' />
+  <node id='262775239' action='delete' timestamp='2008-05-08T09:03:53Z' uid='308' user='MichaelCollinson' visible='true' version='1' changeset='361892' lat='59.4017227' lon='17.9456704' />
+  <node id='262775240' action='delete' timestamp='2008-05-08T09:03:53Z' uid='308' user='MichaelCollinson' visible='true' version='1' changeset='361892' lat='59.4017576' lon='17.9453957' />
+  <node id='262775241' action='delete' timestamp='2013-09-20T22:24:43Z' uid='28775' user='StellanL' visible='true' version='3' changeset='17948009' lat='59.4022086' lon='17.9447767' />
+  <node id='262775242' action='delete' timestamp='2011-11-28T20:04:00Z' uid='28775' user='StellanL' visible='true' version='2' changeset='9980691' lat='59.4016078' lon='17.9429475' />
+  <node id='262775250' action='delete' timestamp='2013-09-20T22:24:44Z' uid='28775' user='StellanL' visible='true' version='4' changeset='17948009' lat='59.4019861' lon='17.9434635' />
+  <node id='262775251' action='delete' timestamp='2014-03-16T16:54:29Z' uid='76269' user='Snusmumriken' visible='true' version='3' changeset='21139816' lat='59.4026094' lon='17.9426663' />
+  <node id='262775252' action='delete' timestamp='2014-03-16T16:54:29Z' uid='76269' user='Snusmumriken' visible='true' version='3' changeset='21139816' lat='59.4028556' lon='17.9434072' />
+  <node id='277298390' action='delete' timestamp='2010-12-14T09:40:22Z' uid='35018' user='WingedStone' visible='true' version='6' changeset='6656279' lat='59.4036526' lon='17.9503295' />
+  <node id='277298393' action='delete' timestamp='2010-12-14T09:40:22Z' uid='35018' user='WingedStone' visible='true' version='5' changeset='6656279' lat='59.4036331' lon='17.9517034' />
+  <node id='277298405' action='delete' timestamp='2010-12-14T09:40:22Z' uid='35018' user='WingedStone' visible='true' version='5' changeset='6656279' lat='59.4033188' lon='17.9507581' />
+  <node id='277298407' action='delete' timestamp='2010-12-14T09:40:22Z' uid='35018' user='WingedStone' visible='true' version='5' changeset='6656279' lat='59.403967' lon='17.9512748' />
+  <node id='306123530' action='delete' timestamp='2014-03-16T16:54:29Z' uid='76269' user='Snusmumriken' visible='true' version='4' changeset='21139816' lat='59.4034121' lon='17.9468549' />
+  <node id='306123531' action='delete' timestamp='2014-03-16T16:54:29Z' uid='76269' user='Snusmumriken' visible='true' version='4' changeset='21139816' lat='59.4034442' lon='17.9468172' />
+  <node id='306123534' action='delete' timestamp='2014-10-10T07:52:59Z' uid='308' user='MichaelCollinson' visible='true' version='4' changeset='25977135' lat='59.4038432' lon='17.9459526' />
+  <node id='311949452' action='delete' timestamp='2014-03-16T16:54:30Z' uid='76269' user='Snusmumriken' visible='true' version='5' changeset='21139816' lat='59.4024187' lon='17.948069' />
+  <node id='313810288' action='delete' timestamp='2013-06-05T20:21:12Z' uid='211131' user='SnoopyOchCo' visible='true' version='16' changeset='16437139' lat='59.4032838' lon='17.9470824' />
+  <node id='313810289' action='delete' timestamp='2013-06-05T20:21:12Z' uid='211131' user='SnoopyOchCo' visible='true' version='9' changeset='16437139' lat='59.4037998' lon='17.9486957' />
+  <node id='313810290' action='delete' timestamp='2013-06-05T20:21:12Z' uid='211131' user='SnoopyOchCo' visible='true' version='9' changeset='16437139' lat='59.4030345' lon='17.9496611' />
+  <node id='313810292' action='delete' timestamp='2010-12-14T09:41:14Z' uid='35018' user='WingedStone' visible='true' version='8' changeset='6656283' lat='59.4025197' lon='17.9480572' />
+  <node id='347343519' action='delete' timestamp='2012-03-26T11:46:33Z' uid='35018' user='WingedStone' visible='true' version='9' changeset='11105024' lat='59.4032275' lon='17.9475098' />
+  <node id='347343522' action='delete' timestamp='2015-12-09T14:17:06Z' uid='438299' user='Essin' visible='true' version='7' changeset='35847163' lat='59.4027706' lon='17.9480873'>
+    <tag k='access' v='private' />
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='347343524' action='delete' timestamp='2012-03-26T11:46:33Z' uid='35018' user='WingedStone' visible='true' version='6' changeset='11105024' lat='59.4031535' lon='17.9492564' />
+  <node id='347343526' action='delete' timestamp='2012-03-26T11:46:33Z' uid='35018' user='WingedStone' visible='true' version='6' changeset='11105024' lat='59.4036103' lon='17.948679' />
+  <node id='446019435' action='delete' timestamp='2009-07-23T08:40:59Z' uid='147572' user='granito' visible='true' version='1' changeset='1912498' lat='59.4021143' lon='17.9480425' />
+  <node id='446019437' action='delete' timestamp='2009-07-23T08:40:59Z' uid='147572' user='granito' visible='true' version='1' changeset='1912498' lat='59.402175' lon='17.9483064' />
+  <node id='446019439' action='delete' timestamp='2009-07-23T08:40:59Z' uid='147572' user='granito' visible='true' version='1' changeset='1912498' lat='59.4016636' lon='17.9487484' />
+  <node id='446019441' action='delete' timestamp='2009-07-23T08:41:00Z' uid='147572' user='granito' visible='true' version='1' changeset='1912498' lat='59.4016037' lon='17.9484678' />
+  <node id='446019443' action='delete' timestamp='2014-03-16T16:54:30Z' uid='76269' user='Snusmumriken' visible='true' version='2' changeset='21139816' lat='59.4025822' lon='17.9489617'>
+    <tag k='amenity' v='post_box' />
+    <tag k='operator' v='Posten' />
+  </node>
+  <node id='446665330' action='delete' timestamp='2013-07-24T00:21:03Z' uid='28775' user='StellanL' visible='true' version='2' changeset='17069263' lat='59.4019109' lon='17.9513407' />
+  <node id='446665334' action='delete' timestamp='2014-03-29T21:28:04Z' uid='28775' user='StellanL' visible='true' version='2' changeset='21390481' lat='59.4009571' lon='17.9514831' />
+  <node id='446665335' action='delete' timestamp='2014-03-29T21:28:05Z' uid='28775' user='StellanL' visible='true' version='3' changeset='21390481' lat='59.4012162' lon='17.9522406' />
+  <node id='446665337' action='delete' timestamp='2009-07-24T05:22:29Z' uid='147572' user='granito' visible='true' version='1' changeset='1921100' lat='59.4004857' lon='17.9501055' />
+  <node id='446665339' action='delete' timestamp='2009-07-24T05:22:29Z' uid='147572' user='granito' visible='true' version='1' changeset='1921100' lat='59.4010997' lon='17.949319' />
+  <node id='446665341' action='delete' timestamp='2009-07-24T05:22:29Z' uid='147572' user='granito' visible='true' version='1' changeset='1921100' lat='59.4013496' lon='17.9494018' />
+  <node id='448834669' action='delete' timestamp='2013-03-12T18:16:14Z' uid='28775' user='StellanL' visible='true' version='3' changeset='15343330' lat='59.4018234' lon='17.946308'>
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='458701140' action='delete' timestamp='2012-11-22T20:00:40Z' uid='28775' user='StellanL' visible='true' version='2' changeset='13990273' lat='59.4016169' lon='17.9456986' />
+  <node id='458701141' action='delete' timestamp='2010-07-28T15:28:35Z' uid='35018' user='WingedStone' visible='true' version='2' changeset='5339001' lat='59.4024022' lon='17.9480158' />
+  <node id='459394023' action='delete' timestamp='2012-05-19T10:42:46Z' uid='290680' user='wheelmap_visitor' visible='true' version='3' changeset='11640224' lat='59.4030627' lon='17.9474828'>
+    <tag k='name' v='Kista Grossen' />
+    <tag k='shop' v='supermarket' />
+    <tag k='wheelchair' v='limited' />
+  </node>
+  <node id='487103706' action='delete' timestamp='2013-09-20T22:24:45Z' uid='28775' user='StellanL' visible='true' version='3' changeset='17948009' lat='59.4035679' lon='17.9491983' />
+  <node id='487104026' action='delete' timestamp='2013-09-20T22:24:44Z' uid='28775' user='StellanL' visible='true' version='2' changeset='17948009' lat='59.4041215' lon='17.9509444'>
+    <tag k='highway' v='mini_roundabout' />
+  </node>
+  <node id='491047649' action='delete' timestamp='2009-09-09T14:44:41Z' uid='35018' user='WingedStone' visible='true' version='1' changeset='2425493' lat='59.40196' lon='17.9492482' />
+  <node id='491047650' action='delete' timestamp='2009-09-09T14:44:41Z' uid='35018' user='WingedStone' visible='true' version='1' changeset='2425493' lat='59.401995' lon='17.948819' />
+  <node id='491047652' action='delete' timestamp='2009-09-09T14:44:41Z' uid='35018' user='WingedStone' visible='true' version='1' changeset='2425493' lat='59.4022003' lon='17.9485787' />
+  <node id='491047653' action='delete' timestamp='2009-09-09T14:44:41Z' uid='35018' user='WingedStone' visible='true' version='1' changeset='2425493' lat='59.4024362' lon='17.9486903' />
+  <node id='491047654' action='delete' timestamp='2009-09-09T14:44:41Z' uid='35018' user='WingedStone' visible='true' version='1' changeset='2425493' lat='59.402493' lon='17.9488448' />
+  <node id='491047655' action='delete' timestamp='2009-09-09T14:44:42Z' uid='35018' user='WingedStone' visible='true' version='1' changeset='2425493' lat='59.4020212' lon='17.9494113' />
+  <node id='491047657' action='delete' timestamp='2014-06-07T17:51:28Z' uid='1668192' user='sofyalai' visible='true' version='4' changeset='22796881' lat='59.4017563' lon='17.950045' />
+  <node id='491047658' action='delete' timestamp='2014-06-07T17:51:28Z' uid='1668192' user='sofyalai' visible='true' version='4' changeset='22796881' lat='59.4018794' lon='17.9504037' />
+  <node id='491047660' action='delete' timestamp='2014-06-07T17:51:28Z' uid='1668192' user='sofyalai' visible='true' version='4' changeset='22796881' lat='59.401758' lon='17.9505645' />
+  <node id='491047662' action='delete' timestamp='2014-06-07T17:51:28Z' uid='1668192' user='sofyalai' visible='true' version='4' changeset='22796881' lat='59.4018487' lon='17.9508288' />
+  <node id='491047663' action='delete' timestamp='2014-06-07T17:51:28Z' uid='1668192' user='sofyalai' visible='true' version='4' changeset='22796881' lat='59.4019451' lon='17.950701' />
+  <node id='491047664' action='delete' timestamp='2014-06-07T17:51:29Z' uid='1668192' user='sofyalai' visible='true' version='4' changeset='22796881' lat='59.402036' lon='17.9509659' />
+  <node id='491047665' action='delete' timestamp='2014-06-07T17:51:29Z' uid='1668192' user='sofyalai' visible='true' version='4' changeset='22796881' lat='59.4021641' lon='17.9507962' />
+  <node id='491047666' action='delete' timestamp='2014-06-07T17:51:29Z' uid='1668192' user='sofyalai' visible='true' version='4' changeset='22796881' lat='59.4020981' lon='17.9506039' />
+  <node id='491047667' action='delete' timestamp='2014-06-07T17:51:29Z' uid='1668192' user='sofyalai' visible='true' version='4' changeset='22796881' lat='59.4023245' lon='17.9503039' />
+  <node id='491047668' action='delete' timestamp='2014-06-07T17:51:29Z' uid='1668192' user='sofyalai' visible='true' version='4' changeset='22796881' lat='59.4022333' lon='17.950038' />
+  <node id='491047669' action='delete' timestamp='2014-06-07T17:51:28Z' uid='1668192' user='sofyalai' visible='true' version='4' changeset='22796881' lat='59.4020488' lon='17.9502824' />
+  <node id='491047670' action='delete' timestamp='2014-06-07T17:51:28Z' uid='1668192' user='sofyalai' visible='true' version='4' changeset='22796881' lat='59.4019014' lon='17.9498528' />
+  <node id='491047671' action='delete' timestamp='2010-12-14T09:41:15Z' uid='35018' user='WingedStone' visible='true' version='2' changeset='6656283' lat='59.4025767' lon='17.9490323' />
+  <node id='491047672' action='delete' timestamp='2010-12-14T09:41:15Z' uid='35018' user='WingedStone' visible='true' version='2' changeset='6656283' lat='59.4024689' lon='17.9491795' />
+  <node id='491047673' action='delete' timestamp='2010-12-14T09:41:14Z' uid='35018' user='WingedStone' visible='true' version='2' changeset='6656283' lat='59.4025073' lon='17.949288' />
+  <node id='491047674' action='delete' timestamp='2010-12-14T09:41:14Z' uid='35018' user='WingedStone' visible='true' version='2' changeset='6656283' lat='59.4022954' lon='17.9495772' />
+  <node id='491047675' action='delete' timestamp='2010-12-14T09:41:13Z' uid='35018' user='WingedStone' visible='true' version='2' changeset='6656283' lat='59.402465' lon='17.9500568' />
+  <node id='491047676' action='delete' timestamp='2010-12-14T09:41:12Z' uid='35018' user='WingedStone' visible='true' version='2' changeset='6656283' lat='59.4024385' lon='17.9500929' />
+  <node id='491047677' action='delete' timestamp='2010-12-14T09:41:14Z' uid='35018' user='WingedStone' visible='true' version='2' changeset='6656283' lat='59.4025322' lon='17.950358' />
+  <node id='491047678' action='delete' timestamp='2010-12-14T09:41:15Z' uid='35018' user='WingedStone' visible='true' version='2' changeset='6656283' lat='59.4028784' lon='17.9498856' />
+  <node id='491103984' action='delete' timestamp='2013-06-05T20:21:12Z' uid='211131' user='SnoopyOchCo' visible='true' version='3' changeset='16437139' lat='59.4022302' lon='17.9471989' />
+  <node id='491493631' action='delete' timestamp='2014-03-16T16:54:30Z' uid='76269' user='Snusmumriken' visible='true' version='3' changeset='21139816' lat='59.4023042' lon='17.9477213' />
+  <node id='491493636' action='delete' timestamp='2014-10-11T12:12:17Z' uid='308' user='MichaelCollinson' visible='true' version='4' changeset='26002582' lat='59.4031346' lon='17.9464457'>
+    <tag k='barrier' v='entrance' />
+    <tag k='source' v='survey' />
+  </node>
+  <node id='491493642' action='delete' timestamp='2014-03-16T16:54:26Z' uid='76269' user='Snusmumriken' visible='true' version='3' changeset='21139816' lat='59.4025984' lon='17.9484252'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Jan Stenbecks torg' />
+    <tag k='network' v='SL' />
+    <tag k='ref' v='51482' />
+    <tag k='route_ref' v='155;178;514;518;523;537;613;627;' />
+    <tag k='shelter' v='yes' />
+  </node>
+  <node id='491493643' action='delete' timestamp='2014-10-11T12:12:17Z' uid='308' user='MichaelCollinson' visible='true' version='4' changeset='26002582' lat='59.4027122' lon='17.9491857'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Jan Stenbecks torg' />
+    <tag k='network' v='SL' />
+    <tag k='ref' v='51483' />
+    <tag k='route_ref' v='155;178;514;518;523;537;613;627;' />
+    <tag k='shelter' v='yes' />
+  </node>
+  <node id='491493644' action='delete' timestamp='2012-03-26T11:46:33Z' uid='35018' user='WingedStone' visible='true' version='3' changeset='11105024' lat='59.4033961' lon='17.9480247' />
+  <node id='491493646' action='delete' timestamp='2013-06-05T20:21:13Z' uid='211131' user='SnoopyOchCo' visible='true' version='3' changeset='16437139' lat='59.4035406' lon='17.9478795' />
+  <node id='491493648' action='delete' timestamp='2009-09-09T19:41:29Z' uid='35018' user='WingedStone' visible='true' version='1' changeset='2428604' lat='59.4036196' lon='17.9477963' />
+  <node id='491494918' action='delete' timestamp='2009-09-21T13:19:05Z' uid='35018' user='WingedStone' visible='true' version='2' changeset='2557066' lat='59.4035812' lon='17.9467401' />
+  <node id='491504020' action='delete' timestamp='2015-02-07T11:45:52Z' uid='622545' user='FredN' visible='true' version='3' changeset='28670779' lat='59.4006073' lon='17.9530182'>
+    <tag k='crossing' v='island' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='501860121' action='delete' timestamp='2016-04-10T12:19:22Z' uid='28775' user='StellanL' visible='true' version='5' changeset='38449202' lat='59.4052379' lon='17.9426719' />
+  <node id='501860123' action='delete' timestamp='2016-04-10T12:19:22Z' uid='28775' user='StellanL' visible='true' version='4' changeset='38449202' lat='59.4052791' lon='17.9426965' />
+  <node id='501860125' action='delete' timestamp='2016-04-10T12:19:22Z' uid='28775' user='StellanL' visible='true' version='4' changeset='38449202' lat='59.4053165' lon='17.9426602' />
+  <node id='501860127' action='delete' timestamp='2016-04-10T12:19:22Z' uid='28775' user='StellanL' visible='true' version='3' changeset='38449202' lat='59.4053838' lon='17.9425473' />
+  <node id='501860129' action='delete' timestamp='2016-04-10T12:19:22Z' uid='28775' user='StellanL' visible='true' version='3' changeset='38449202' lat='59.4054292' lon='17.9425597' />
+  <node id='501860130' action='delete' timestamp='2012-05-23T18:09:01Z' uid='687143' user='OakOMalm' visible='true' version='2' changeset='11683020' lat='59.4056721' lon='17.9431564' />
+  <node id='501860132' action='delete' timestamp='2013-06-05T20:21:13Z' uid='211131' user='SnoopyOchCo' visible='true' version='2' changeset='16437139' lat='59.406369' lon='17.9449642' />
+  <node id='501860134' action='delete' timestamp='2013-06-05T20:21:13Z' uid='211131' user='SnoopyOchCo' visible='true' version='2' changeset='16437139' lat='59.4064688' lon='17.9453013' />
+  <node id='501860136' action='delete' timestamp='2009-09-19T15:06:47Z' uid='140698' user='olofsj' visible='true' version='1' changeset='2534984' lat='59.405736' lon='17.9463349' />
+  <node id='501860138' action='delete' timestamp='2009-09-19T15:06:47Z' uid='140698' user='olofsj' visible='true' version='1' changeset='2534984' lat='59.4047817' lon='17.9477565' />
+  <node id='504045568' action='delete' timestamp='2016-03-16T19:26:31Z' uid='622545' user='FredN' visible='true' version='2' changeset='37880975' lat='59.403429' lon='17.9469373' />
+  <node id='504045572' action='delete' timestamp='2016-01-25T09:35:05Z' uid='28775' user='StellanL' visible='true' version='3' changeset='36792097' lat='59.4033075' lon='17.9469506' />
+  <node id='504076134' action='delete' timestamp='2009-09-21T13:31:07Z' uid='35018' user='WingedStone' visible='true' version='1' changeset='2557173' lat='59.404097' lon='17.948378' />
+  <node id='504076138' action='delete' timestamp='2013-09-21T18:38:41Z' uid='28775' user='StellanL' visible='true' version='3' changeset='17961610' lat='59.4038897' lon='17.9485855' />
+  <node id='504076141' action='delete' timestamp='2013-09-20T22:24:44Z' uid='28775' user='StellanL' visible='true' version='2' changeset='17948009' lat='59.4039579' lon='17.9489687' />
+  <node id='504076145' action='delete' timestamp='2015-10-11T07:23:29Z' uid='308' user='MichaelCollinson' visible='true' version='2' changeset='34563537' lat='59.4041769' lon='17.9484107'>
+    <tag k='highway' v='crossing' />
+    <tag k='source' v='Bing' />
+  </node>
+  <node id='504076147' action='delete' timestamp='2009-09-21T13:31:07Z' uid='35018' user='WingedStone' visible='true' version='1' changeset='2557173' lat='59.4040884' lon='17.9492829' />
+  <node id='504076151' action='delete' timestamp='2013-09-20T20:11:30Z' uid='28775' user='StellanL' visible='true' version='3' changeset='17946277' lat='59.4041131' lon='17.9492618' />
+  <node id='504300614' action='delete' timestamp='2009-09-21T15:10:13Z' uid='35018' user='WingedStone' visible='true' version='1' changeset='2558093' lat='59.4029152' lon='17.949943' />
+  <node id='504300616' action='delete' timestamp='2009-09-21T15:10:14Z' uid='35018' user='WingedStone' visible='true' version='1' changeset='2558093' lat='59.4018972' lon='17.9513023' />
+  <node id='504300621' action='delete' timestamp='2009-09-21T15:10:14Z' uid='35018' user='WingedStone' visible='true' version='1' changeset='2558093' lat='59.4011535' lon='17.9522083' />
+  <node id='504300632' action='delete' timestamp='2014-03-29T21:28:05Z' uid='28775' user='StellanL' visible='true' version='2' changeset='21390481' lat='59.4011908' lon='17.9521663' />
+  <node id='504300634' action='delete' timestamp='2014-10-10T07:52:59Z' uid='308' user='MichaelCollinson' visible='true' version='3' changeset='25977135' lat='59.4011849' lon='17.9522802'>
+    <tag k='highway' v='crossing' />
+    <tag k='source' v='Bing' />
+  </node>
+  <node id='510596574' action='delete' timestamp='2015-03-21T21:48:21Z' uid='505284' user='Fringillus' visible='true' version='2' changeset='29644403' lat='59.402839' lon='17.9498626'>
+    <tag k='addr:country' v='SE' />
+    <tag k='addr:housenumber' v='21' />
+    <tag k='addr:street' v='Isafjordsgatan' />
+  </node>
+  <node id='510596575' action='delete' timestamp='2015-03-21T21:46:20Z' uid='505284' user='Fringillus' visible='true' version='2' changeset='29644403' lat='59.4026873' lon='17.9500611'>
+    <tag k='addr:country' v='SE' />
+    <tag k='addr:housenumber' v='19' />
+    <tag k='addr:street' v='Isafjordsgatan' />
+  </node>
+  <node id='510596576' action='delete' timestamp='2015-03-21T21:44:43Z' uid='505284' user='Fringillus' visible='true' version='2' changeset='29644403' lat='59.4025602' lon='17.950229'>
+    <tag k='addr:country' v='SE' />
+    <tag k='addr:housenumber' v='17' />
+    <tag k='addr:street' v='Isafjordsgatan' />
+  </node>
+  <node id='510596577' action='delete' timestamp='2015-03-21T21:53:01Z' uid='505284' user='Fringillus' visible='true' version='2' changeset='29644403' lat='59.4025634' lon='17.9491556'>
+    <tag k='addr:country' v='SE' />
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:street' v='Färögatan' />
+  </node>
+  <node id='510596597' action='delete' timestamp='2015-03-21T21:50:16Z' uid='505284' user='Fringillus' visible='true' version='2' changeset='29644403' lat='59.4037299' lon='17.9487445'>
+    <tag k='addr:country' v='SE' />
+    <tag k='addr:housenumber' v='25' />
+    <tag k='addr:street' v='Isafjordsgatan' />
+  </node>
+  <node id='510596598' action='delete' timestamp='2015-03-21T21:51:15Z' uid='505284' user='Fringillus' visible='true' version='2' changeset='29644403' lat='59.4039948' lon='17.9482109'>
+    <tag k='addr:country' v='SE' />
+    <tag k='addr:housenumber' v='27' />
+    <tag k='addr:street' v='Isafjordsgatan' />
+  </node>
+  <node id='510596621' action='delete' timestamp='2015-03-21T21:49:23Z' uid='505284' user='Fringillus' visible='true' version='2' changeset='29644403' lat='59.4032446' lon='17.9493656'>
+    <tag k='addr:country' v='SE' />
+    <tag k='addr:housenumber' v='23' />
+    <tag k='addr:street' v='Isafjordsgatan' />
+  </node>
+  <node id='510596625' action='delete' timestamp='2016-08-27T18:46:18Z' uid='2256461' user='bagis' visible='true' version='3' changeset='41742136' lat='59.4035046' lon='17.9506054'>
+    <tag k='addr:city' v='Kista' />
+    <tag k='addr:country' v='SE' />
+    <tag k='addr:housenumber' v='14E' />
+    <tag k='addr:postcode' v='164 40' />
+    <tag k='addr:street' v='Isafjordsgatan' />
+  </node>
+  <node id='510596626' action='delete' timestamp='2016-08-27T18:46:18Z' uid='2256461' user='bagis' visible='true' version='3' changeset='41742136' lat='59.4035992' lon='17.9504808'>
+    <tag k='addr:city' v='Kista' />
+    <tag k='addr:country' v='SE' />
+    <tag k='addr:housenumber' v='14D' />
+    <tag k='addr:postcode' v='164 40' />
+    <tag k='addr:street' v='Isafjordsgatan' />
+  </node>
+  <node id='514786408' action='delete' timestamp='2015-10-19T11:18:54Z' uid='329453' user='Biff' visible='true' version='3' changeset='34729671' lat='59.4040886' lon='17.9500028'>
+    <tag k='addr:city' v='Kista' />
+    <tag k='addr:country' v='SE' />
+    <tag k='addr:housenumber' v='16' />
+    <tag k='addr:street' v='Isafjordsgatan' />
+  </node>
+  <node id='523288842' action='delete' timestamp='2009-12-07T18:42:12Z' uid='140698' user='olofsj' visible='true' version='2' changeset='3318286' lat='59.4030748' lon='17.949837'>
+    <tag k='crossing' v='uncontrolled' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='523288845' action='delete' timestamp='2015-12-02T18:18:15Z' uid='622545' user='FredN' visible='true' version='3' changeset='35711740' lat='59.4030633' lon='17.9501347' />
+  <node id='523288847' action='delete' timestamp='2016-04-13T16:01:29Z' uid='622545' user='FredN' visible='true' version='5' changeset='38530070' lat='59.4027737' lon='17.9512862' />
+  <node id='523288849' action='delete' timestamp='2016-04-13T16:01:29Z' uid='622545' user='FredN' visible='true' version='5' changeset='38530070' lat='59.4025974' lon='17.9507374' />
+  <node id='523288852' action='delete' timestamp='2013-09-20T22:24:45Z' uid='28775' user='StellanL' visible='true' version='2' changeset='17948009' lat='59.4031436' lon='17.9500378' />
+  <node id='523288854' action='delete' timestamp='2013-09-20T22:24:45Z' uid='28775' user='StellanL' visible='true' version='2' changeset='17948009' lat='59.4038198' lon='17.949953' />
+  <node id='523288855' action='delete' timestamp='2016-04-13T16:01:29Z' uid='622545' user='FredN' visible='true' version='4' changeset='38530070' lat='59.403232' lon='17.9507022' />
+  <node id='523288857' action='delete' timestamp='2015-12-11T19:33:28Z' uid='622545' user='FredN' visible='true' version='2' changeset='35891707' lat='59.4032863' lon='17.9507701' />
+  <node id='523288872' action='delete' timestamp='2013-09-20T20:11:31Z' uid='28775' user='StellanL' visible='true' version='3' changeset='17946277' lat='59.4045625' lon='17.9506499' />
+  <node id='537648201' action='delete' timestamp='2013-07-24T00:21:02Z' uid='28775' user='StellanL' visible='true' version='3' changeset='17069263' lat='59.4010646' lon='17.9524359' />
+  <node id='569312339' action='delete' timestamp='2014-10-15T19:11:11Z' uid='28775' user='StellanL' visible='true' version='3' changeset='26102805' lat='59.4043398' lon='17.9436984' />
+  <node id='569312365' action='delete' timestamp='2012-11-22T20:00:36Z' uid='28775' user='StellanL' visible='true' version='2' changeset='13990273' lat='59.4054525' lon='17.9465706'>
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='569312367' action='delete' timestamp='2009-11-23T15:40:29Z' uid='35018' user='WingedStone' visible='true' version='1' changeset='3196713' lat='59.4055036' lon='17.9466812' />
+  <node id='569312368' action='delete' timestamp='2012-11-22T20:00:38Z' uid='28775' user='StellanL' visible='true' version='4' changeset='13990273' lat='59.4057022' lon='17.9461946' />
+  <node id='569330688' action='delete' timestamp='2009-11-23T15:52:50Z' uid='35018' user='WingedStone' visible='true' version='1' changeset='3196814' lat='59.4048465' lon='17.94766' />
+  <node id='569330719' action='delete' timestamp='2013-09-20T20:11:31Z' uid='28775' user='StellanL' visible='true' version='3' changeset='17946277' lat='59.4048388' lon='17.9515036' />
+  <node id='582965995' action='delete' timestamp='2009-12-07T18:41:53Z' uid='140698' user='olofsj' visible='true' version='1' changeset='3318286' lat='59.4030457' lon='17.9497519' />
+  <node id='582965996' action='delete' timestamp='2009-12-07T18:41:54Z' uid='140698' user='olofsj' visible='true' version='1' changeset='3318286' lat='59.4029748' lon='17.9498557'>
+    <tag k='crossing' v='uncontrolled' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='582965997' action='delete' timestamp='2013-09-20T22:24:44Z' uid='28775' user='StellanL' visible='true' version='2' changeset='17948009' lat='59.4029958' lon='17.9502206' />
+  <node id='582965999' action='delete' timestamp='2013-07-24T00:21:02Z' uid='28775' user='StellanL' visible='true' version='2' changeset='17069263' lat='59.4029376' lon='17.9500122'>
+    <tag k='crossing' v='uncontrolled' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='582966006' action='delete' timestamp='2013-06-05T20:21:13Z' uid='211131' user='SnoopyOchCo' visible='true' version='2' changeset='16437139' lat='59.4064102' lon='17.9451307'>
+    <tag k='crossing' v='uncontrolled' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='582966007' action='delete' timestamp='2013-09-20T22:24:44Z' uid='28775' user='StellanL' visible='true' version='2' changeset='17948009' lat='59.4036364' lon='17.949402'>
+    <tag k='crossing' v='uncontrolled' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='583315266' action='delete' timestamp='2014-04-02T06:07:16Z' uid='2013089' user='Walln3r' visible='true' version='3' changeset='21451162' lat='59.4041109' lon='17.9464636' />
+  <node id='583315276' action='delete' timestamp='2014-04-02T06:07:16Z' uid='2013089' user='Walln3r' visible='true' version='2' changeset='21451162' lat='59.4041688' lon='17.9463528' />
+  <node id='724408985' action='delete' timestamp='2010-05-06T19:36:32Z' uid='35018' user='WingedStone' visible='true' version='1' changeset='4624795' lat='59.4019712' lon='17.947379'>
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='724408987' action='delete' timestamp='2014-08-20T19:53:59Z' uid='622545' user='FredN' visible='true' version='2' changeset='24894779' lat='59.4011533' lon='17.9487689' />
+  <node id='724408990' action='delete' timestamp='2010-05-06T19:36:32Z' uid='35018' user='WingedStone' visible='true' version='1' changeset='4624795' lat='59.4021232' lon='17.9473345' />
+  <node id='724408993' action='delete' timestamp='2014-08-20T19:53:59Z' uid='622545' user='FredN' visible='true' version='2' changeset='24894779' lat='59.4014919' lon='17.9483317' />
+  <node id='724408995' action='delete' timestamp='2010-05-06T19:36:32Z' uid='35018' user='WingedStone' visible='true' version='1' changeset='4624795' lat='59.4022224' lon='17.9472876' />
+  <node id='724408996' action='delete' timestamp='2014-08-20T19:53:59Z' uid='622545' user='FredN' visible='true' version='3' changeset='24894779' lat='59.4011014' lon='17.9488306' />
+  <node id='724409000' action='delete' timestamp='2013-06-05T20:21:13Z' uid='211131' user='SnoopyOchCo' visible='true' version='2' changeset='16437139' lat='59.401719' lon='17.9474305' />
+  <node id='724409447' action='delete' timestamp='2010-05-06T19:37:31Z' uid='35018' user='WingedStone' visible='true' version='1' changeset='4624808' lat='59.4016931' lon='17.948987' />
+  <node id='724409850' action='delete' timestamp='2014-08-20T19:53:59Z' uid='622545' user='FredN' visible='true' version='2' changeset='24894779' lat='59.4014578' lon='17.9483719' />
+  <node id='724513640' action='delete' timestamp='2013-09-20T22:24:44Z' uid='28775' user='StellanL' visible='true' version='3' changeset='17948009' lat='59.4032766' lon='17.9505177' />
+  <node id='724513641' action='delete' timestamp='2015-05-01T06:21:40Z' uid='622545' user='FredN' visible='true' version='4' changeset='30681710' lat='59.4039411' lon='17.9491349' />
+  <node id='724513643' action='delete' timestamp='2015-12-11T19:33:28Z' uid='622545' user='FredN' visible='true' version='4' changeset='35891707' lat='59.4027559' lon='17.9509043' />
+  <node id='724513645' action='delete' timestamp='2015-12-11T19:33:28Z' uid='622545' user='FredN' visible='true' version='3' changeset='35891707' lat='59.4031091' lon='17.9507186' />
+  <node id='724513647' action='delete' timestamp='2015-12-11T19:33:28Z' uid='622545' user='FredN' visible='true' version='3' changeset='35891707' lat='59.4031107' lon='17.9507166' />
+  <node id='724513650' action='delete' timestamp='2015-05-01T06:21:41Z' uid='622545' user='FredN' visible='true' version='3' changeset='30681710' lat='59.404114' lon='17.9496452' />
+  <node id='724513652' action='delete' timestamp='2013-09-20T22:24:44Z' uid='28775' user='StellanL' visible='true' version='3' changeset='17948009' lat='59.4035934' lon='17.9495291' />
+  <node id='724513654' action='delete' timestamp='2013-09-20T22:24:44Z' uid='28775' user='StellanL' visible='true' version='3' changeset='17948009' lat='59.4031409' lon='17.9500898' />
+  <node id='724513657' action='delete' timestamp='2015-05-01T06:21:41Z' uid='622545' user='FredN' visible='true' version='4' changeset='30681710' lat='59.4039119' lon='17.9499094' />
+  <node id='724513658' action='delete' timestamp='2015-12-11T19:33:28Z' uid='622545' user='FredN' visible='true' version='3' changeset='35891707' lat='59.4028159' lon='17.9510917' />
+  <node id='724513660' action='delete' timestamp='2013-09-20T22:24:44Z' uid='28775' user='StellanL' visible='true' version='3' changeset='17948009' lat='59.4037262' lon='17.9499431' />
+  <node id='724513662' action='delete' timestamp='2015-05-01T06:21:41Z' uid='622545' user='FredN' visible='true' version='4' changeset='30681710' lat='59.403739' lon='17.9493991' />
+  <node id='752685915' action='delete' timestamp='2012-05-23T18:09:01Z' uid='687143' user='OakOMalm' visible='true' version='2' changeset='11683020' lat='59.406136' lon='17.9441716' />
+  <node id='769266415' action='delete' timestamp='2016-04-13T16:01:29Z' uid='622545' user='FredN' visible='true' version='4' changeset='38530070' lat='59.4031412' lon='17.9524297' />
+  <node id='769266423' action='delete' timestamp='2016-04-13T16:01:29Z' uid='622545' user='FredN' visible='true' version='4' changeset='38530070' lat='59.4025749' lon='17.9506673' />
+  <node id='769266431' action='delete' timestamp='2016-04-13T16:01:29Z' uid='622545' user='FredN' visible='true' version='6' changeset='38530070' lat='59.4028555' lon='17.9515407'>
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='769266434' action='delete' timestamp='2016-04-13T16:01:29Z' uid='622545' user='FredN' visible='true' version='6' changeset='38530070' lat='59.4028942' lon='17.9516612' />
+  <node id='770453136' action='delete' timestamp='2012-01-10T16:48:07Z' uid='28775' user='StellanL' visible='true' version='2' changeset='10352920' lat='59.4023754' lon='17.9497857'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='name' v='Nya Kista Lunchhörna' />
+    <tag k='website' v='http://nyakistalunchhorna.kvartersmenyn.se/' />
+  </node>
+  <node id='772330091' action='delete' timestamp='2013-02-24T12:35:25Z' uid='155929' user='Daniel Bergman' visible='true' version='5' changeset='15147244' lat='59.4029124' lon='17.946599'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='cuisine' v='burger' />
+    <tag k='name' v='Max' />
+    <tag k='operator' v='Max' />
+    <tag k='wheelchair' v='yes' />
+  </node>
+  <node id='836431083' action='delete' timestamp='2014-10-10T07:52:59Z' uid='308' user='MichaelCollinson' visible='true' version='3' changeset='25977135' lat='59.4023662' lon='17.9481258'>
+    <tag k='highway' v='crossing' />
+    <tag k='source' v='Bing' />
+  </node>
+  <node id='836431086' action='delete' timestamp='2010-07-28T15:28:30Z' uid='35018' user='WingedStone' visible='true' version='1' changeset='5339001' lat='59.4033438' lon='17.9469962' />
+  <node id='836431087' action='delete' timestamp='2014-03-16T16:54:30Z' uid='76269' user='Snusmumriken' visible='true' version='3' changeset='21139816' lat='59.4023282' lon='17.9475952' />
+  <node id='836431090' action='delete' timestamp='2014-08-20T19:53:59Z' uid='622545' user='FredN' visible='true' version='3' changeset='24894779' lat='59.4022865' lon='17.9478596' />
+  <node id='843239008' action='delete' timestamp='2014-10-11T12:12:17Z' uid='308' user='MichaelCollinson' visible='true' version='2' changeset='26002582' lat='59.4029311' lon='17.9481689' />
+  <node id='843239012' action='delete' timestamp='2014-10-11T12:12:17Z' uid='308' user='MichaelCollinson' visible='true' version='4' changeset='26002582' lat='59.4031888' lon='17.9478745' />
+  <node id='843239016' action='delete' timestamp='2012-03-26T11:46:33Z' uid='35018' user='WingedStone' visible='true' version='3' changeset='11105024' lat='59.403123' lon='17.9476419'>
+    <tag k='access' v='private' />
+    <tag k='barrier' v='entrance' />
+  </node>
+  <node id='843239029' action='delete' timestamp='2014-10-11T12:12:17Z' uid='308' user='MichaelCollinson' visible='true' version='3' changeset='26002582' lat='59.4033623' lon='17.9480169' />
+  <node id='843239041' action='delete' timestamp='2012-03-26T11:46:33Z' uid='35018' user='WingedStone' visible='true' version='3' changeset='11105024' lat='59.403148' lon='17.9492396'>
+    <tag k='access' v='private' />
+    <tag k='barrier' v='entrance' />
+  </node>
+  <node id='843239045' action='delete' timestamp='2014-10-11T12:12:17Z' uid='308' user='MichaelCollinson' visible='true' version='2' changeset='26002582' lat='59.403075' lon='17.9489139' />
+  <node id='843239130' action='delete' timestamp='2014-10-11T12:12:17Z' uid='308' user='MichaelCollinson' visible='true' version='3' changeset='26002582' lat='59.4032691' lon='17.9487691' />
+  <node id='843239134' action='delete' timestamp='2014-10-11T12:12:17Z' uid='308' user='MichaelCollinson' visible='true' version='3' changeset='26002582' lat='59.4031792' lon='17.9485126' />
+  <node id='843239135' action='delete' timestamp='2014-10-11T12:12:17Z' uid='308' user='MichaelCollinson' visible='true' version='4' changeset='26002582' lat='59.4031172' lon='17.9485966' />
+  <node id='843239138' action='delete' timestamp='2014-10-11T12:12:17Z' uid='308' user='MichaelCollinson' visible='true' version='3' changeset='26002582' lat='59.4032071' lon='17.9488531' />
+  <node id='846600705' action='delete' timestamp='2014-03-16T16:54:27Z' uid='76269' user='Snusmumriken' visible='true' version='4' changeset='21139816' lat='59.4035004' lon='17.9472644'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Jan Stenbecks torg' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='846600710' action='delete' timestamp='2014-03-16T16:54:27Z' uid='76269' user='Snusmumriken' visible='true' version='4' changeset='21139816' lat='59.4036541' lon='17.9480751'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Jan Stenbecks torg' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='847661285' action='delete' timestamp='2014-03-16T16:54:30Z' uid='76269' user='Snusmumriken' visible='true' version='3' changeset='21139816' lat='59.4024147' lon='17.9477802' />
+  <node id='847661291' action='delete' timestamp='2014-03-16T16:54:30Z' uid='76269' user='Snusmumriken' visible='true' version='3' changeset='21139816' lat='59.4032721' lon='17.9462774' />
+  <node id='848497087' action='delete' timestamp='2016-04-13T16:01:29Z' uid='622545' user='FredN' visible='true' version='5' changeset='38530070' lat='59.4029249' lon='17.9517567' />
+  <node id='864710855' action='delete' timestamp='2014-10-10T07:52:59Z' uid='308' user='MichaelCollinson' visible='true' version='3' changeset='25977135' lat='59.4024467' lon='17.9479614'>
+    <tag k='highway' v='crossing' />
+    <tag k='source' v='Bing' />
+  </node>
+  <node id='865055130' action='delete' timestamp='2010-08-17T18:25:25Z' uid='35018' user='WingedStone' visible='true' version='1' changeset='5520312' lat='59.4012217' lon='17.9493594' />
+  <node id='937553017' action='delete' timestamp='2013-07-24T00:21:03Z' uid='28775' user='StellanL' visible='true' version='3' changeset='17069263' lat='59.4014726' lon='17.9519079' />
+  <node id='1038975201' action='delete' timestamp='2013-09-20T20:11:32Z' uid='28775' user='StellanL' visible='true' version='3' changeset='17946277' lat='59.4046646' lon='17.9509655' />
+  <node id='1038975234' action='delete' timestamp='2013-09-20T20:11:30Z' uid='28775' user='StellanL' visible='true' version='3' changeset='17946277' lat='59.4049027' lon='17.951701' />
+  <node id='1521686203' action='delete' timestamp='2013-09-20T22:24:44Z' uid='28775' user='StellanL' visible='true' version='3' changeset='17948009' lat='59.401751' lon='17.9427777' />
+  <node id='1563046975' action='delete' timestamp='2012-11-22T20:00:35Z' uid='28775' user='StellanL' visible='true' version='2' changeset='13990273' lat='59.4046285' lon='17.9477561' />
+  <node id='1623457646' action='delete' timestamp='2012-02-08T08:25:03Z' uid='4592' user='Mirarkitty' visible='true' version='1' changeset='10621620' lat='59.4022495' lon='17.9469822' />
+  <node id='1623457687' action='delete' timestamp='2012-02-08T08:25:04Z' uid='4592' user='Mirarkitty' visible='true' version='1' changeset='10621620' lat='59.4019729' lon='17.946868' />
+  <node id='1623457692' action='delete' timestamp='2012-02-08T08:25:04Z' uid='4592' user='Mirarkitty' visible='true' version='1' changeset='10621620' lat='59.4020038' lon='17.9467884' />
+  <node id='1623457736' action='delete' timestamp='2012-02-08T08:25:05Z' uid='4592' user='Mirarkitty' visible='true' version='1' changeset='10621620' lat='59.4022094' lon='17.9468016' />
+  <node id='1623457749' action='delete' timestamp='2012-02-08T08:25:05Z' uid='4592' user='Mirarkitty' visible='true' version='1' changeset='10621620' lat='59.4020466' lon='17.9467344' />
+  <node id='1623457764' action='delete' timestamp='2012-02-08T08:25:05Z' uid='4592' user='Mirarkitty' visible='true' version='1' changeset='10621620' lat='59.4019566' lon='17.9470043' />
+  <node id='1623457780' action='delete' timestamp='2012-02-08T08:25:06Z' uid='4592' user='Mirarkitty' visible='true' version='1' changeset='10621620' lat='59.4021213' lon='17.9467143' />
+  <node id='1623457789' action='delete' timestamp='2012-02-08T08:25:06Z' uid='4592' user='Mirarkitty' visible='true' version='1' changeset='10621620' lat='59.4022193' lon='17.9471759' />
+  <node id='1623457838' action='delete' timestamp='2012-02-08T08:25:06Z' uid='4592' user='Mirarkitty' visible='true' version='1' changeset='10621620' lat='59.4021816' lon='17.9472433' />
+  <node id='1623457846' action='delete' timestamp='2012-02-08T08:25:07Z' uid='4592' user='Mirarkitty' visible='true' version='1' changeset='10621620' lat='59.4022429' lon='17.9470873' />
+  <node id='1623457860' action='delete' timestamp='2012-02-08T08:25:07Z' uid='4592' user='Mirarkitty' visible='true' version='1' changeset='10621620' lat='59.4021346' lon='17.9472814' />
+  <node id='1623457893' action='delete' timestamp='2012-02-08T08:25:07Z' uid='4592' user='Mirarkitty' visible='true' version='1' changeset='10621620' lat='59.4022376' lon='17.946885' />
+  <node id='1623457898' action='delete' timestamp='2012-02-08T08:25:07Z' uid='4592' user='Mirarkitty' visible='true' version='1' changeset='10621620' lat='59.4022903' lon='17.9468655' />
+  <node id='1623457947' action='delete' timestamp='2012-02-08T08:25:08Z' uid='4592' user='Mirarkitty' visible='true' version='1' changeset='10621620' lat='59.4020999' lon='17.947288' />
+  <node id='1623457950' action='delete' timestamp='2012-02-08T08:25:08Z' uid='4592' user='Mirarkitty' visible='true' version='1' changeset='10621620' lat='59.4022439' lon='17.9473376'>
+    <tag k='amenity' v='parking' />
+    <tag k='parking' v='underground' />
+  </node>
+  <node id='1623457996' action='delete' timestamp='2012-02-08T08:25:09Z' uid='4592' user='Mirarkitty' visible='true' version='1' changeset='10621620' lat='59.4019662' lon='17.9471025' />
+  <node id='1623458028' action='delete' timestamp='2012-02-08T08:25:10Z' uid='4592' user='Mirarkitty' visible='true' version='1' changeset='10621620' lat='59.4022521' lon='17.9467127' />
+  <node id='1623458046' action='delete' timestamp='2012-02-08T08:25:10Z' uid='4592' user='Mirarkitty' visible='true' version='1' changeset='10621620' lat='59.4018952' lon='17.9462054' />
+  <node id='1623458056' action='delete' timestamp='2012-02-08T08:25:10Z' uid='4592' user='Mirarkitty' visible='true' version='1' changeset='10621620' lat='59.40217' lon='17.9467437' />
+  <node id='1623458062' action='delete' timestamp='2012-02-08T08:25:10Z' uid='4592' user='Mirarkitty' visible='true' version='1' changeset='10621620' lat='59.4020499' lon='17.9472684' />
+  <node id='1638013804' action='delete' timestamp='2012-02-18T18:28:18Z' uid='4592' user='Mirarkitty' visible='true' version='1' changeset='10722977' lat='59.4026721' lon='17.9451311' />
+  <node id='1638013825' action='delete' timestamp='2013-09-20T22:24:44Z' uid='28775' user='StellanL' visible='true' version='3' changeset='17948009' lat='59.4023074' lon='17.9430383' />
+  <node id='1638013850' action='delete' timestamp='2012-02-18T18:28:19Z' uid='4592' user='Mirarkitty' visible='true' version='1' changeset='10722977' lat='59.4030263' lon='17.9461211' />
+  <node id='1638013879' action='delete' timestamp='2012-02-18T18:28:19Z' uid='4592' user='Mirarkitty' visible='true' version='1' changeset='10722977' lat='59.4022619' lon='17.9456984' />
+  <node id='1638013881' action='delete' timestamp='2012-02-18T18:28:19Z' uid='4592' user='Mirarkitty' visible='true' version='1' changeset='10722977' lat='59.4026029' lon='17.9466792' />
+  <node id='1662092482' action='delete' timestamp='2012-03-06T08:47:48Z' uid='308' user='MichaelCollinson' visible='true' version='1' changeset='10887887' lat='59.4042036' lon='17.9438787' />
+  <node id='1662092504' action='delete' timestamp='2013-03-12T18:16:14Z' uid='28775' user='StellanL' visible='true' version='2' changeset='15343330' lat='59.4040149' lon='17.9441676' />
+  <node id='1662092506' action='delete' timestamp='2013-03-12T18:16:14Z' uid='28775' user='StellanL' visible='true' version='2' changeset='15343330' lat='59.4043239' lon='17.9437744' />
+  <node id='1662092508' action='delete' timestamp='2012-03-06T08:47:49Z' uid='308' user='MichaelCollinson' visible='true' version='1' changeset='10887887' lat='59.4039093' lon='17.9425366' />
+  <node id='1662092512' action='delete' timestamp='2013-03-12T18:16:14Z' uid='28775' user='StellanL' visible='true' version='2' changeset='15343330' lat='59.4040065' lon='17.9441433' />
+  <node id='1662092533' action='delete' timestamp='2012-03-06T08:47:50Z' uid='308' user='MichaelCollinson' visible='true' version='1' changeset='10887887' lat='59.4043168' lon='17.9437515' />
+  <node id='1662092536' action='delete' timestamp='2014-03-16T16:54:28Z' uid='76269' user='Snusmumriken' visible='true' version='3' changeset='21139816' lat='59.4034585' lon='17.9431505' />
+  <node id='1662092542' action='delete' timestamp='2013-03-12T18:16:14Z' uid='28775' user='StellanL' visible='true' version='2' changeset='15343330' lat='59.4035876' lon='17.9429372' />
+  <node id='1662092547' action='delete' timestamp='2015-01-15T22:32:53Z' uid='124870' user='Walkingmage' visible='true' version='4' changeset='28175086' lat='59.404706' lon='17.9428459'>
+    <tag k='entrance' v='yes' />
+    <tag k='level' v='-1' />
+  </node>
+  <node id='1662092550' action='delete' timestamp='2013-03-12T18:16:14Z' uid='28775' user='StellanL' visible='true' version='2' changeset='15343330' lat='59.4038732' lon='17.9443205' />
+  <node id='1662092553' action='delete' timestamp='2013-03-12T18:16:14Z' uid='28775' user='StellanL' visible='true' version='2' changeset='15343330' lat='59.4042182' lon='17.9439104' />
+  <node id='1662092555' action='delete' timestamp='2013-03-12T18:16:14Z' uid='28775' user='StellanL' visible='true' version='2' changeset='15343330' lat='59.4038822' lon='17.9443463' />
+  <node id='1662092601' action='delete' timestamp='2014-03-16T16:54:28Z' uid='76269' user='Snusmumriken' visible='true' version='3' changeset='21139816' lat='59.4031408' lon='17.9434516' />
+  <node id='1662092609' action='delete' timestamp='2014-03-16T16:54:28Z' uid='76269' user='Snusmumriken' visible='true' version='2' changeset='21139816' lat='59.4031672' lon='17.9435297' />
+  <node id='1662092611' action='delete' timestamp='2014-03-16T16:54:28Z' uid='76269' user='Snusmumriken' visible='true' version='2' changeset='21139816' lat='59.4031967' lon='17.9433788' />
+  <node id='1662092615' action='delete' timestamp='2013-03-12T18:16:14Z' uid='28775' user='StellanL' visible='true' version='2' changeset='15343330' lat='59.4043946' lon='17.9418876' />
+  <node id='1662092616' action='delete' timestamp='2014-03-16T16:54:28Z' uid='76269' user='Snusmumriken' visible='true' version='2' changeset='21139816' lat='59.4032192' lon='17.9434525' />
+  <node id='1662092620' action='delete' timestamp='2013-03-12T18:16:14Z' uid='28775' user='StellanL' visible='true' version='2' changeset='15343330' lat='59.4034536' lon='17.9431161' />
+  <node id='1662092625' action='delete' timestamp='2012-03-06T08:47:53Z' uid='308' user='MichaelCollinson' visible='true' version='1' changeset='10887887' lat='59.403802' lon='17.942665' />
+  <node id='1662095036' action='delete' timestamp='2013-03-12T18:16:14Z' uid='28775' user='StellanL' visible='true' version='2' changeset='15343330' lat='59.4030869' lon='17.9457456' />
+  <node id='1691808262' action='delete' timestamp='2012-07-28T14:01:23Z' uid='765757' user='B_M_W' visible='true' version='2' changeset='12523652' lat='59.4038007' lon='17.9478308'>
+    <tag k='name' v='ICA to go' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='1763367863' action='delete' timestamp='2013-03-12T18:16:14Z' uid='28775' user='StellanL' visible='true' version='2' changeset='15343330' lat='59.4030261' lon='17.9455687' />
+  <node id='1763367868' action='delete' timestamp='2012-05-23T17:35:29Z' uid='687143' user='OakOMalm' visible='true' version='1' changeset='11682714' lat='59.4022481' lon='17.9465725' />
+  <node id='1763367871' action='delete' timestamp='2012-05-23T17:35:29Z' uid='687143' user='OakOMalm' visible='true' version='1' changeset='11682714' lat='59.4020788' lon='17.9466208' />
+  <node id='1763367872' action='delete' timestamp='2014-08-20T19:53:59Z' uid='622545' user='FredN' visible='true' version='2' changeset='24894779' lat='59.4016312' lon='17.9481681' />
+  <node id='1763399848' action='delete' timestamp='2012-05-23T18:08:58Z' uid='687143' user='OakOMalm' visible='true' version='1' changeset='11683020' lat='59.405774' lon='17.9432445' />
+  <node id='1765239187' action='delete' timestamp='2012-05-25T13:06:04Z' uid='687143' user='OakOMalm' visible='true' version='1' changeset='11698362' lat='59.4016765' lon='17.9456441' />
+  <node id='1765239189' action='delete' timestamp='2012-05-25T13:06:04Z' uid='687143' user='OakOMalm' visible='true' version='1' changeset='11698362' lat='59.4018704' lon='17.9462407' />
+  <node id='2018620837' action='delete' timestamp='2015-03-21T22:00:46Z' uid='505284' user='Fringillus' visible='true' version='3' changeset='29644403' lat='59.4024619' lon='17.9488152'>
+    <tag k='addr:country' v='SE' />
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:street' v='Färögatan' />
+  </node>
+  <node id='2105619147' action='delete' timestamp='2013-01-11T12:25:22Z' uid='35018' user='WingedStone' visible='true' version='1' changeset='14609328' lat='59.4036995' lon='17.9484235'>
+    <tag k='addr:city' v='Stockholm' />
+    <tag k='addr:country' v='SE' />
+    <tag k='addr:housenumber' v='19' />
+    <tag k='addr:street' v='Kistagången' />
+  </node>
+  <node id='2105619157' action='delete' timestamp='2014-03-16T16:54:28Z' uid='76269' user='Snusmumriken' visible='true' version='2' changeset='21139816' lat='59.4032675' lon='17.9471934'>
+    <tag k='amenity' v='bank' />
+    <tag k='atm' v='yes' />
+    <tag k='name' v='SEB' />
+    <tag k='operator' v='SEB' />
+    <tag k='source' v='local_knowledge' />
+  </node>
+  <node id='2105619163' action='delete' timestamp='2015-04-12T15:35:41Z' uid='622545' user='FredN' visible='true' version='2' changeset='30165817' lat='59.4034216' lon='17.94763'>
+    <tag k='amenity' v='bank' />
+    <tag k='atm' v='yes' />
+    <tag k='operator' v='Nordea' />
+    <tag k='source' v='local_knowledge' />
+  </node>
+  <node id='2105619167' action='delete' timestamp='2013-01-11T12:25:22Z' uid='35018' user='WingedStone' visible='true' version='1' changeset='14609328' lat='59.4037291' lon='17.9485121'>
+    <tag k='amenity' v='bank' />
+    <tag k='atm' v='yes' />
+    <tag k='operator' v='Swedbank' />
+    <tag k='source' v='local_knowledge' />
+  </node>
+  <node id='2171149278' action='delete' timestamp='2014-03-16T16:54:29Z' uid='76269' user='Snusmumriken' visible='true' version='3' changeset='21139816' lat='59.4020777' lon='17.944379' />
+  <node id='2171149284' action='delete' timestamp='2015-10-11T07:23:29Z' uid='308' user='MichaelCollinson' visible='true' version='3' changeset='34563537' lat='59.4028852' lon='17.9464273'>
+    <tag k='amenity' v='toilets' />
+    <tag k='fee' v='no' />
+    <tag k='source' v='survey' />
+  </node>
+  <node id='2171149290' action='delete' timestamp='2013-02-24T12:35:25Z' uid='155929' user='Daniel Bergman' visible='true' version='1' changeset='15147244' lat='59.4029357' lon='17.9464352'>
+    <tag k='amenity' v='dentist' />
+  </node>
+  <node id='2198105207' action='delete' timestamp='2013-03-12T18:16:13Z' uid='28775' user='StellanL' visible='true' version='1' changeset='15343330' lat='59.4045792' lon='17.9424278' />
+  <node id='2198105209' action='delete' timestamp='2013-03-12T18:16:13Z' uid='28775' user='StellanL' visible='true' version='1' changeset='15343330' lat='59.4046102' lon='17.9425186' />
+  <node id='2333424372' action='delete' timestamp='2013-07-24T00:21:03Z' uid='28775' user='StellanL' visible='true' version='2' changeset='17069263' lat='59.4005348' lon='17.9531214' />
+  <node id='2333597845' action='delete' timestamp='2014-03-16T16:54:29Z' uid='76269' user='Snusmumriken' visible='true' version='2' changeset='21139816' lat='59.4028304' lon='17.9466085' />
+  <node id='2333597850' action='delete' timestamp='2014-03-16T16:54:29Z' uid='76269' user='Snusmumriken' visible='true' version='2' changeset='21139816' lat='59.4028861' lon='17.9467676' />
+  <node id='2333597857' action='delete' timestamp='2014-03-16T16:54:29Z' uid='76269' user='Snusmumriken' visible='true' version='2' changeset='21139816' lat='59.4031943' lon='17.9460889' />
+  <node id='2333597904' action='delete' timestamp='2013-06-05T20:20:52Z' uid='211131' user='SnoopyOchCo' visible='true' version='1' changeset='16437139' lat='59.4063725' lon='17.9448107' />
+  <node id='2351321905' action='delete' timestamp='2014-03-16T16:54:29Z' uid='76269' user='Snusmumriken' visible='true' version='2' changeset='21139816' lat='59.4032525' lon='17.9463' />
+  <node id='2465993948' action='delete' timestamp='2013-09-20T22:24:43Z' uid='28775' user='StellanL' visible='true' version='1' changeset='17948009' lat='59.4040868' lon='17.950773' />
+  <node id='2524074824' action='delete' timestamp='2013-11-08T09:56:28Z' uid='158153' user='jetthe' visible='true' version='1' changeset='18779230' lat='59.40196' lon='17.9469504' />
+  <node id='2614528235' action='delete' timestamp='2014-01-08T09:34:46Z' uid='35018' user='WingedStone' visible='true' version='1' changeset='19878602' lat='59.4035943' lon='17.9489549' />
+  <node id='2721566753' action='delete' timestamp='2014-03-16T16:54:13Z' uid='76269' user='Snusmumriken' visible='true' version='1' changeset='21139816' lat='59.4034753' lon='17.9467143'>
+    <tag k='amenity' v='cafe' />
+    <tag k='name' v='Espresso House' />
+  </node>
+  <node id='2721566755' action='delete' timestamp='2014-03-16T16:54:13Z' uid='76269' user='Snusmumriken' visible='true' version='1' changeset='21139816' lat='59.403495' lon='17.9469517'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='name' v='Subway' />
+  </node>
+  <node id='2721566780' action='delete' timestamp='2014-03-16T16:54:14Z' uid='76269' user='Snusmumriken' visible='true' version='1' changeset='21139816' lat='59.4023491' lon='17.9476598' />
+  <node id='2721566781' action='delete' timestamp='2014-03-16T16:54:14Z' uid='76269' user='Snusmumriken' visible='true' version='1' changeset='21139816' lat='59.4023681' lon='17.9476333' />
+  <node id='2721566782' action='delete' timestamp='2014-03-16T16:54:14Z' uid='76269' user='Snusmumriken' visible='true' version='1' changeset='21139816' lat='59.4024421' lon='17.9477931' />
+  <node id='2721566783' action='delete' timestamp='2014-03-16T16:54:14Z' uid='76269' user='Snusmumriken' visible='true' version='1' changeset='21139816' lat='59.4024802' lon='17.9477983' />
+  <node id='2721566784' action='delete' timestamp='2014-03-16T16:54:14Z' uid='76269' user='Snusmumriken' visible='true' version='1' changeset='21139816' lat='59.4025341' lon='17.9477802' />
+  <node id='2721566785' action='delete' timestamp='2014-03-16T16:54:14Z' uid='76269' user='Snusmumriken' visible='true' version='1' changeset='21139816' lat='59.4025971' lon='17.9477105' />
+  <node id='2721566786' action='delete' timestamp='2014-03-16T16:54:14Z' uid='76269' user='Snusmumriken' visible='true' version='1' changeset='21139816' lat='59.4026591' lon='17.9428177' />
+  <node id='2721566788' action='delete' timestamp='2014-03-16T16:54:14Z' uid='76269' user='Snusmumriken' visible='true' version='1' changeset='21139816' lat='59.4027593' lon='17.9431158' />
+  <node id='2721566790' action='delete' timestamp='2014-03-16T16:54:14Z' uid='76269' user='Snusmumriken' visible='true' version='1' changeset='21139816' lat='59.4032354' lon='17.94689' />
+  <node id='2721566792' action='delete' timestamp='2014-03-16T16:54:14Z' uid='76269' user='Snusmumriken' visible='true' version='1' changeset='21139816' lat='59.4032853' lon='17.9468513' />
+  <node id='2721566793' action='delete' timestamp='2014-03-16T16:54:14Z' uid='76269' user='Snusmumriken' visible='true' version='1' changeset='21139816' lat='59.4033232' lon='17.9468562' />
+  <node id='2721566794' action='delete' timestamp='2014-03-16T16:54:14Z' uid='76269' user='Snusmumriken' visible='true' version='1' changeset='21139816' lat='59.4033562' lon='17.9468875' />
+  <node id='2721566795' action='delete' timestamp='2014-03-16T16:54:14Z' uid='76269' user='Snusmumriken' visible='true' version='1' changeset='21139816' lat='59.40337' lon='17.946912' />
+  <node id='2760107820' action='delete' timestamp='2014-04-02T06:07:16Z' uid='2013089' user='Walln3r' visible='true' version='1' changeset='21451162' lat='59.40406' lon='17.9465573' />
+  <node id='2877460665' action='delete' timestamp='2014-05-24T09:51:17Z' uid='370313' user='Hans Kå' visible='true' version='1' changeset='22520707' lat='59.4037906' lon='17.9468204'>
+    <tag k='name' v='Från fall till fall' />
+    <tag k='tourism' v='artwork' />
+  </node>
+  <node id='2877460667' action='delete' timestamp='2014-07-25T07:40:00Z' uid='2209355' user='dalecarlian' visible='true' version='2' changeset='24343410' lat='59.4039299' lon='17.948137'>
+    <tag k='name' v='Panini Internazionale' />
+    <tag k='note' v='Coffee costs 5 SEK.' />
+    <tag k='shop' v='bakery' />
+  </node>
+  <node id='2877460668' action='delete' timestamp='2014-05-24T09:51:17Z' uid='370313' user='Hans Kå' visible='true' version='1' changeset='22520707' lat='59.4035179' lon='17.9480385'>
+    <tag k='name' v='Fastightsbyrån' />
+    <tag k='office' v='estate_agent' />
+  </node>
+  <node id='2877460673' action='delete' timestamp='2014-05-24T09:51:17Z' uid='370313' user='Hans Kå' visible='true' version='1' changeset='22520707' lat='59.4035607' lon='17.9471283'>
+    <tag k='name' v='Hi-Fi klubben' />
+    <tag k='shop' v='hifi' />
+  </node>
+  <node id='2896205843' action='delete' timestamp='2014-10-11T12:12:17Z' uid='308' user='MichaelCollinson' visible='true' version='2' changeset='26002582' lat='59.4026428' lon='17.946793'>
+    <tag k='barrier' v='entrance' />
+    <tag k='source' v='survey' />
+  </node>
+  <node id='2896212133' action='delete' timestamp='2014-06-02T21:03:45Z' uid='622545' user='FredN' visible='true' version='1' changeset='22702958' lat='59.4025739' lon='17.9467305'>
+    <tag k='name' v='ÖoB' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='www.öob.se' />
+  </node>
+  <node id='2904721972' action='delete' timestamp='2016-11-17T11:01:56Z' uid='128515' user='turepalsson' visible='true' version='4' changeset='43724831' lat='59.402191' lon='17.9503834'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='cuisine' v='regional' />
+    <tag k='name' v='Isas Spis' />
+  </node>
+  <node id='3030452237' action='delete' timestamp='2014-08-20T19:53:59Z' uid='622545' user='FredN' visible='true' version='1' changeset='24894779' lat='59.4020012' lon='17.9478301' />
+  <node id='3030452238' action='delete' timestamp='2014-08-20T19:53:59Z' uid='622545' user='FredN' visible='true' version='1' changeset='24894779' lat='59.4016899' lon='17.9481654' />
+  <node id='3030452239' action='delete' timestamp='2014-08-20T19:53:59Z' uid='622545' user='FredN' visible='true' version='1' changeset='24894779' lat='59.4017295' lon='17.9481493' />
+  <node id='3030452240' action='delete' timestamp='2014-08-20T19:53:59Z' uid='622545' user='FredN' visible='true' version='1' changeset='24894779' lat='59.4021309' lon='17.9478703' />
+  <node id='3030452241' action='delete' timestamp='2014-08-20T19:53:59Z' uid='622545' user='FredN' visible='true' version='1' changeset='24894779' lat='59.4022292' lon='17.9478945' />
+  <node id='3030452242' action='delete' timestamp='2014-08-20T19:53:59Z' uid='622545' user='FredN' visible='true' version='1' changeset='24894779' lat='59.4022565' lon='17.9477738' />
+  <node id='3121764624' action='delete' timestamp='2014-10-10T07:52:57Z' uid='308' user='MichaelCollinson' visible='true' version='1' changeset='25977135' lat='59.4038544' lon='17.9463119' />
+  <node id='3121765134' action='delete' timestamp='2015-12-11T19:33:28Z' uid='622545' user='FredN' visible='true' version='2' changeset='35891707' lat='59.402978' lon='17.9503181' />
+  <node id='3121765140' action='delete' timestamp='2015-12-11T19:33:28Z' uid='622545' user='FredN' visible='true' version='2' changeset='35891707' lat='59.4028361' lon='17.9508044' />
+  <node id='3121765144' action='delete' timestamp='2014-10-10T07:52:58Z' uid='308' user='MichaelCollinson' visible='true' version='1' changeset='25977135' lat='59.4023254' lon='17.9488061'>
+    <tag k='amenity' v='public_building' />
+    <tag k='name' v='Skatteverket servicekontor' />
+    <tag k='office' v='tax' />
+    <tag k='operator' v='Skatteverket' />
+    <tag k='source' v='website' />
+    <tag k='website' v='www.skatteverket.se' />
+  </node>
+  <node id='3121765150' action='delete' timestamp='2014-10-10T07:52:58Z' uid='308' user='MichaelCollinson' visible='true' version='1' changeset='25977135' lat='59.4037667' lon='17.9460528' />
+  <node id='3121765151' action='delete' timestamp='2014-10-10T07:52:58Z' uid='308' user='MichaelCollinson' visible='true' version='1' changeset='25977135' lat='59.4038167' lon='17.9458743' />
+  <node id='3121765154' action='delete' timestamp='2014-10-10T07:52:58Z' uid='308' user='MichaelCollinson' visible='true' version='1' changeset='25977135' lat='59.4038672' lon='17.9458082' />
+  <node id='3121765155' action='delete' timestamp='2015-12-11T19:33:28Z' uid='622545' user='FredN' visible='true' version='2' changeset='35891707' lat='59.4026846' lon='17.9506836' />
+  <node id='3121765156' action='delete' timestamp='2014-10-10T07:52:58Z' uid='308' user='MichaelCollinson' visible='true' version='1' changeset='25977135' lat='59.4024741' lon='17.948247'>
+    <tag k='highway' v='crossing' />
+    <tag k='source' v='Bing' />
+  </node>
+  <node id='3121765161' action='delete' timestamp='2014-10-10T07:52:58Z' uid='308' user='MichaelCollinson' visible='true' version='1' changeset='25977135' lat='59.40198' lon='17.9512512'>
+    <tag k='highway' v='crossing' />
+    <tag k='source' v='Bing' />
+  </node>
+  <node id='3121765168' action='delete' timestamp='2015-12-11T19:33:28Z' uid='622545' user='FredN' visible='true' version='2' changeset='35891707' lat='59.4030379' lon='17.9505039' />
+  <node id='3121765176' action='delete' timestamp='2015-12-11T19:33:28Z' uid='622545' user='FredN' visible='true' version='2' changeset='35891707' lat='59.4028248' lon='17.9507695' />
+  <node id='3121765178' action='delete' timestamp='2014-10-10T07:52:58Z' uid='308' user='MichaelCollinson' visible='true' version='1' changeset='25977135' lat='59.4038889' lon='17.9462669' />
+  <node id='3121765179' action='delete' timestamp='2014-10-10T07:52:58Z' uid='308' user='MichaelCollinson' visible='true' version='1' changeset='25977135' lat='59.4040563' lon='17.9463664' />
+  <node id='3121765180' action='delete' timestamp='2014-10-10T07:52:58Z' uid='308' user='MichaelCollinson' visible='true' version='1' changeset='25977135' lat='59.4039636' lon='17.9464877' />
+  <node id='3123811807' action='delete' timestamp='2015-12-09T14:17:05Z' uid='438299' user='Essin' visible='true' version='2' changeset='35847163' lat='59.4024615' lon='17.948759'>
+    <tag k='entrance' v='yes' />
+    <tag k='source' v='survey' />
+  </node>
+  <node id='3123811808' action='delete' timestamp='2014-10-11T12:12:16Z' uid='308' user='MichaelCollinson' visible='true' version='1' changeset='26002582' lat='59.4029576' lon='17.948491' />
+  <node id='3123811809' action='delete' timestamp='2014-10-11T12:12:16Z' uid='308' user='MichaelCollinson' visible='true' version='1' changeset='26002582' lat='59.4026525' lon='17.9473745'>
+    <tag k='amenity' v='bench' />
+    <tag k='source' v='survey' />
+  </node>
+  <node id='3123811810' action='delete' timestamp='2014-10-11T12:12:16Z' uid='308' user='MichaelCollinson' visible='true' version='1' changeset='26002582' lat='59.4026416' lon='17.9474872'>
+    <tag k='amenity' v='bench' />
+    <tag k='source' v='survey' />
+  </node>
+  <node id='3123811812' action='delete' timestamp='2014-10-11T12:12:16Z' uid='308' user='MichaelCollinson' visible='true' version='1' changeset='26002582' lat='59.4030324' lon='17.9487241' />
+  <node id='3123811813' action='delete' timestamp='2015-03-21T22:05:25Z' uid='505284' user='Fringillus' visible='true' version='2' changeset='29644403' lat='59.4022184' lon='17.9486352'>
+    <tag k='addr:country' v='SE' />
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:street' v='Färögatan' />
+  </node>
+  <node id='3123811814' action='delete' timestamp='2014-10-11T12:12:16Z' uid='308' user='MichaelCollinson' visible='true' version='1' changeset='26002582' lat='59.4025592' lon='17.9483931' />
+  <node id='3123811815' action='delete' timestamp='2014-10-11T12:12:16Z' uid='308' user='MichaelCollinson' visible='true' version='1' changeset='26002582' lat='59.4026288' lon='17.9488893' />
+  <node id='3123811816' action='delete' timestamp='2015-12-09T14:17:06Z' uid='438299' user='Essin' visible='true' version='2' changeset='35847163' lat='59.4022444' lon='17.9485996'>
+    <tag k='entrance' v='yes' />
+    <tag k='source' v='survey' />
+  </node>
+  <node id='3123811817' action='delete' timestamp='2014-10-11T12:12:16Z' uid='308' user='MichaelCollinson' visible='true' version='1' changeset='26002582' lat='59.402598' lon='17.9475891'>
+    <tag k='amenity' v='bench' />
+    <tag k='source' v='survey' />
+  </node>
+  <node id='3123811819' action='delete' timestamp='2014-10-11T12:12:17Z' uid='308' user='MichaelCollinson' visible='true' version='1' changeset='26002582' lat='59.4029336' lon='17.948346' />
+  <node id='3123811820' action='delete' timestamp='2014-10-11T12:12:17Z' uid='308' user='MichaelCollinson' visible='true' version='1' changeset='26002582' lat='59.403292' lon='17.9478862' />
+  <node id='3123811821' action='delete' timestamp='2014-10-11T12:12:17Z' uid='308' user='MichaelCollinson' visible='true' version='1' changeset='26002582' lat='59.4032647' lon='17.9469711' />
+  <node id='3123811822' action='delete' timestamp='2014-10-11T12:12:17Z' uid='308' user='MichaelCollinson' visible='true' version='1' changeset='26002582' lat='59.4027382' lon='17.9492322' />
+  <node id='3123811823' action='delete' timestamp='2014-10-11T12:12:17Z' uid='308' user='MichaelCollinson' visible='true' version='1' changeset='26002582' lat='59.4026702' lon='17.9472887'>
+    <tag k='amenity' v='bench' />
+    <tag k='source' v='survey' />
+  </node>
+  <node id='3123811824' action='delete' timestamp='2014-10-11T12:12:17Z' uid='308' user='MichaelCollinson' visible='true' version='1' changeset='26002582' lat='59.4026848' lon='17.9487713' />
+  <node id='3329001178' action='delete' timestamp='2015-02-03T20:13:22Z' uid='622545' user='FredN' visible='true' version='1' changeset='28597503' lat='59.4026269' lon='17.9465294'>
+    <tag k='contact:email' v='info@akademibokhandeln.se' />
+    <tag k='contact:fax' v='+46 8-769 81 01' />
+    <tag k='contact:phone' v='+46 10-74 41 260' />
+    <tag k='contact:website' v='http://akademibokhandeln.se/ort/kista/?change=1097' />
+    <tag k='name' v='Akademibokhandeln' />
+    <tag k='opening_hours' v='Mo-Su 10:00-21:00' />
+    <tag k='shop' v='books' />
+  </node>
+  <node id='3452101928' action='delete' timestamp='2015-04-12T15:35:40Z' uid='622545' user='FredN' visible='true' version='1' changeset='30165817' lat='59.4029424' lon='17.9493742'>
+    <tag k='addr:city' v='Kista' />
+    <tag k='addr:country' v='SE' />
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:postcode' v='164 40' />
+    <tag k='addr:street' v='Färögatan' />
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='3452101929' action='delete' timestamp='2015-04-12T15:35:40Z' uid='622545' user='FredN' visible='true' version='1' changeset='30165817' lat='59.4033923' lon='17.9474191'>
+    <tag k='addr:city' v='Kista' />
+    <tag k='addr:country' v='SE' />
+    <tag k='addr:housenumber' v='21' />
+    <tag k='addr:postcode' v='164 40' />
+    <tag k='addr:street' v='Kistagången' />
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='3452101930' action='delete' timestamp='2015-04-12T15:35:40Z' uid='622545' user='FredN' visible='true' version='1' changeset='30165817' lat='59.4025797' lon='17.9482442'>
+    <tag k='addr:city' v='Kista' />
+    <tag k='addr:country' v='SE' />
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:postcode' v='164 40' />
+    <tag k='addr:street' v='Färögatan' />
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='3478737862' action='delete' timestamp='2015-04-30T23:10:48Z' uid='505284' user='Fringillus' visible='true' version='3' changeset='30676343' lat='59.4033942' lon='17.9465955'>
+    <tag k='addr:city' v='Kista' />
+    <tag k='addr:country' v='SE' />
+    <tag k='addr:housenumber' v='15' />
+    <tag k='addr:postcode' v='164 40' />
+    <tag k='addr:street' v='Jan Stenbecks Torg' />
+    <tag k='amenity' v='cafe' />
+    <tag k='name' v='Blueberry' />
+    <tag k='opening_hours' v='Mo-Sa 07:00-19:00;Su off' />
+    <tag k='payment:bitcoin' v='yes' />
+    <tag k='phone' v='+46 8 20 82 50' />
+    <tag k='website' v='http://www.blueberrylifestyle.se' />
+  </node>
+  <node id='3663441741' action='delete' timestamp='2016-04-13T16:01:29Z' uid='622545' user='FredN' visible='true' version='2' changeset='38530070' lat='59.4031948' lon='17.9525967' />
+  <node id='3738155798' action='delete' timestamp='2015-09-10T21:19:28Z' uid='2012746' user='_zod' visible='true' version='1' changeset='33943940' lat='59.4042413' lon='17.948319' />
+  <node id='3781734266' action='delete' timestamp='2016-04-13T16:01:29Z' uid='622545' user='FredN' visible='true' version='2' changeset='38530070' lat='59.4028367' lon='17.951206'>
+    <tag k='crossing' v='uncontrolled' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='3837653157' action='delete' timestamp='2015-11-15T17:43:08Z' uid='2014311' user='Markus Kilås' visible='true' version='1' changeset='35332695' lat='59.4030913' lon='17.9465271'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='covered' v='no' />
+  </node>
+  <node id='3871507985' action='delete' timestamp='2015-12-01T20:27:34Z' uid='622545' user='FredN' visible='true' version='1' changeset='35693693' lat='59.4035925' lon='17.9538342' />
+  <node id='3888087882' action='delete' timestamp='2015-12-11T19:34:16Z' uid='622545' user='FredN' visible='true' version='2' changeset='35891719' lat='59.403042' lon='17.9504511'>
+    <tag k='amenity' v='bench' />
+    <tag k='backrest' v='yes' />
+    <tag k='colour' v='brown' />
+    <tag k='direction' v='NW' />
+  </node>
+  <node id='3888087883' action='delete' timestamp='2015-12-11T19:33:27Z' uid='622545' user='FredN' visible='true' version='1' changeset='35891707' lat='59.4031037' lon='17.9500849' />
+  <node id='3888087884' action='delete' timestamp='2015-12-11T19:33:27Z' uid='622545' user='FredN' visible='true' version='1' changeset='35891707' lat='59.4031252' lon='17.9506253' />
+  <node id='3888087885' action='delete' timestamp='2015-12-11T19:33:27Z' uid='622545' user='FredN' visible='true' version='1' changeset='35891707' lat='59.403183' lon='17.9505553' />
+  <node id='3888087886' action='delete' timestamp='2015-12-11T19:33:27Z' uid='622545' user='FredN' visible='true' version='1' changeset='35891707' lat='59.4032336' lon='17.9504962' />
+  <node id='3888087887' action='delete' timestamp='2015-12-11T19:33:27Z' uid='622545' user='FredN' visible='true' version='1' changeset='35891707' lat='59.403255' lon='17.9507372' />
+  <node id='4058411868' action='delete' timestamp='2016-03-13T16:05:42Z' uid='3705295' user='parha' visible='true' version='1' changeset='37802727' lat='59.4034612' lon='17.9468675' />
+  <node id='4058411869' action='delete' timestamp='2016-03-13T16:05:42Z' uid='3705295' user='parha' visible='true' version='1' changeset='37802727' lat='59.403621' lon='17.9466551' />
+  <node id='4058411870' action='delete' timestamp='2016-03-13T16:05:42Z' uid='3705295' user='parha' visible='true' version='1' changeset='37802727' lat='59.403434' lon='17.9460652' />
+  <node id='4058424681' action='delete' timestamp='2016-03-13T16:13:36Z' uid='3705295' user='parha' visible='true' version='1' changeset='37802878' lat='59.4035663' lon='17.9467278' />
+  <node id='4058424682' action='delete' timestamp='2016-03-13T16:13:36Z' uid='3705295' user='parha' visible='true' version='1' changeset='37802878' lat='59.4039616' lon='17.9479384' />
+  <node id='4058424683' action='delete' timestamp='2016-03-13T16:13:36Z' uid='3705295' user='parha' visible='true' version='1' changeset='37802878' lat='59.4043559' lon='17.947458' />
+  <node id='4058424684' action='delete' timestamp='2016-03-13T16:13:36Z' uid='3705295' user='parha' visible='true' version='1' changeset='37802878' lat='59.4044407' lon='17.9477031' />
+  <node id='4058424685' action='delete' timestamp='2016-03-13T16:13:36Z' uid='3705295' user='parha' visible='true' version='1' changeset='37802878' lat='59.4039098' lon='17.9483776' />
+  <node id='4058424686' action='delete' timestamp='2016-03-13T16:13:37Z' uid='3705295' user='parha' visible='true' version='1' changeset='37802878' lat='59.4034297' lon='17.9469031' />
+  <node id='4058428225' action='delete' timestamp='2016-03-13T16:19:06Z' uid='3705295' user='parha' visible='true' version='1' changeset='37802977' lat='59.4042716' lon='17.9475608' />
+  <node id='4058428226' action='delete' timestamp='2016-03-13T16:19:06Z' uid='3705295' user='parha' visible='true' version='1' changeset='37802977' lat='59.4040938' lon='17.9470236' />
+  <node id='4058428227' action='delete' timestamp='2016-03-13T16:19:06Z' uid='3705295' user='parha' visible='true' version='1' changeset='37802977' lat='59.404134' lon='17.9469754'>
+    <tag k='office' v='yes' />
+  </node>
+  <node id='4058428228' action='delete' timestamp='2016-03-13T16:19:06Z' uid='3705295' user='parha' visible='true' version='1' changeset='37802977' lat='59.4040655' lon='17.9467591' />
+  <node id='4058428229' action='delete' timestamp='2016-03-13T16:19:06Z' uid='3705295' user='parha' visible='true' version='1' changeset='37802977' lat='59.4041578' lon='17.9466451' />
+  <node id='4058428230' action='delete' timestamp='2016-03-13T16:19:06Z' uid='3705295' user='parha' visible='true' version='1' changeset='37802977' lat='59.4044055' lon='17.9473978' />
+  <node id='4058455143' action='delete' timestamp='2016-03-13T16:44:07Z' uid='3705295' user='parha' visible='true' version='1' changeset='37803460' lat='59.4041354' lon='17.9496945' />
+  <node id='4058455144' action='delete' timestamp='2016-03-13T16:44:07Z' uid='3705295' user='parha' visible='true' version='1' changeset='37803460' lat='59.4044156' lon='17.9505516' />
+  <node id='4058455145' action='delete' timestamp='2016-03-13T16:44:07Z' uid='3705295' user='parha' visible='true' version='1' changeset='37803460' lat='59.4043656' lon='17.9506171' />
+  <node id='4058455146' action='delete' timestamp='2016-03-13T16:44:07Z' uid='3705295' user='parha' visible='true' version='1' changeset='37803460' lat='59.404458' lon='17.9509118' />
+  <node id='4058455147' action='delete' timestamp='2016-03-13T16:44:07Z' uid='3705295' user='parha' visible='true' version='1' changeset='37803460' lat='59.4043414' lon='17.9510487' />
+  <node id='4058455148' action='delete' timestamp='2016-03-13T16:44:07Z' uid='3705295' user='parha' visible='true' version='1' changeset='37803460' lat='59.404252' lon='17.9507629' />
+  <node id='4058455149' action='delete' timestamp='2016-03-13T16:44:07Z' uid='3705295' user='parha' visible='true' version='1' changeset='37803460' lat='59.404196' lon='17.9508254' />
+  <node id='4058455150' action='delete' timestamp='2016-03-13T16:44:07Z' uid='3705295' user='parha' visible='true' version='1' changeset='37803460' lat='59.4039082' lon='17.9499743' />
+  <node id='4058457913' action='delete' timestamp='2016-03-13T16:48:10Z' uid='3705295' user='parha' visible='true' version='1' changeset='37803534' lat='59.4043275' lon='17.9510043' />
+  <node id='4119275342' action='delete' timestamp='2016-04-13T16:01:29Z' uid='622545' user='FredN' visible='true' version='1' changeset='38530070' lat='59.4032176' lon='17.9526674' />
+  <way id='-2360' action='modify' visible='true'>
+    <nd ref='-2361' />
+    <nd ref='-2362' />
+    <tag k='line_type' v='exterior' />
+  </way>
+  <way id='-2363' action='modify' visible='true'>
+    <nd ref='-2364' />
+    <nd ref='-2365' />
+    <tag k='line_type' v='interior' />
+  </way>
+  <way id='-2369' action='modify' visible='true'>
+    <nd ref='-2370' />
+    <nd ref='-2378' />
+    <tag k='line_type' v='exterior' />
+  </way>
+  <way id='-2377' action='modify' visible='true'>
+    <nd ref='-2378' />
+    <nd ref='-2379' />
+    <nd ref='-2380' />
+    <nd ref='-2381' />
+    <nd ref='-2382' />
+    <nd ref='-2383' />
+    <nd ref='-2384' />
+    <nd ref='-2385' />
+    <tag k='line_type' v='exterior' />
+  </way>
+  <way id='-2404' action='modify' visible='true'>
+    <nd ref='-2365' />
+    <nd ref='-2406' />
+    <nd ref='-2407' />
+    <nd ref='-2408' />
+    <nd ref='-2409' />
+    <nd ref='-2410' />
+    <nd ref='-2411' />
+    <nd ref='-2605' />
+    <tag k='line_type' v='interior' />
+  </way>
+  <way id='-2437' action='modify' visible='true'>
+    <nd ref='-2438' />
+    <nd ref='-2439' />
+    <nd ref='-2440' />
+    <nd ref='-2441' />
+    <nd ref='-2442' />
+    <nd ref='-2443' />
+    <nd ref='-2444' />
+    <nd ref='-2361' />
+    <tag k='line_type' v='exterior' />
+  </way>
+  <way id='-2461' action='modify' visible='true'>
+    <nd ref='-2462' />
+    <nd ref='-2463' />
+    <tag k='line_type' v='exterior' />
+  </way>
+  <way id='-2464' action='modify' visible='true'>
+    <nd ref='-2465' />
+    <nd ref='-2466' />
+    <tag k='line_type' v='interior' />
+  </way>
+  <way id='-2472' action='modify' visible='true'>
+    <nd ref='-2473' />
+    <nd ref='-2474' />
+    <tag k='line_type' v='exterior' />
+  </way>
+  <way id='-2478' action='modify' visible='true'>
+    <nd ref='-2479' />
+    <nd ref='-2480' />
+    <tag k='line_type' v='exterior' />
+  </way>
+  <way id='-2491' action='modify' visible='true'>
+    <nd ref='-2492' />
+    <nd ref='-2493' />
+    <tag k='line_type' v='interior' />
+  </way>
+  <way id='-2497' action='modify' visible='true'>
+    <nd ref='-2498' />
+    <nd ref='-2499' />
+    <tag k='line_type' v='exterior' />
+  </way>
+  <way id='-2504' action='modify' visible='true'>
+    <nd ref='-2474' />
+    <nd ref='-2506' />
+    <nd ref='-2508' />
+    <nd ref='-2510' />
+    <nd ref='-2511' />
+    <nd ref='-2498' />
+    <tag k='line_type' v='exterior' />
+  </way>
+  <way id='-2528' action='modify' visible='true'>
+    <nd ref='-2493' />
+    <nd ref='-2530' />
+    <nd ref='-2531' />
+    <nd ref='-2532' />
+    <nd ref='-2533' />
+    <nd ref='-2466' />
+    <tag k='line_type' v='interior' />
+  </way>
+  <way id='-2548' action='modify' visible='true'>
+    <nd ref='-2480' />
+    <nd ref='-2550' />
+    <nd ref='-2551' />
+    <nd ref='-2552' />
+    <nd ref='-2553' />
+    <nd ref='-2462' />
+    <tag k='line_type' v='exterior' />
+  </way>
+  <way id='-2597' action='modify' visible='true'>
+    <nd ref='-2499' />
+    <nd ref='-2599' />
+    <nd ref='-2600' />
+    <nd ref='-2601' />
+    <nd ref='-2602' />
+    <nd ref='-2438' />
+    <tag k='line_type' v='exterior' />
+  </way>
+  <way id='-2604' action='modify' visible='true'>
+    <nd ref='-2605' />
+    <nd ref='-2606' />
+    <nd ref='-2607' />
+    <nd ref='-2608' />
+    <nd ref='-2609' />
+    <nd ref='-2492' />
+    <tag k='line_type' v='interior' />
+  </way>
+  <way id='-2613' action='modify' visible='true'>
+    <nd ref='-2385' />
+    <nd ref='-2615' />
+    <nd ref='-2616' />
+    <nd ref='-2617' />
+    <nd ref='-2618' />
+    <nd ref='-2479' />
+    <tag k='line_type' v='exterior' />
+  </way>
+  <way id='-2620' action='modify' visible='true'>
+    <nd ref='-2362' />
+    <nd ref='-2622' />
+    <nd ref='-2623' />
+    <nd ref='-2624' />
+    <nd ref='-2625' />
+    <nd ref='-2473' />
+    <tag k='line_type' v='exterior' />
+  </way>
+  <way id='-2627' action='modify' visible='true'>
+    <nd ref='-2465' />
+    <nd ref='-2629' />
+    <nd ref='-2630' />
+    <nd ref='-2631' />
+    <nd ref='-2632' />
+    <nd ref='-2364' />
+    <tag k='line_type' v='interior' />
+  </way>
+  <way id='-2634' action='modify' visible='true'>
+    <nd ref='-2463' />
+    <nd ref='-2636' />
+    <nd ref='-2637' />
+    <nd ref='-2638' />
+    <nd ref='-2639' />
+    <nd ref='-2370' />
+    <tag k='line_type' v='exterior' />
+  </way>
+  <way id='2426378' action='delete' timestamp='2015-09-10T21:19:28Z' uid='2012746' user='_zod' visible='true' version='15' changeset='33943940'>
+    <tag k='highway' v='unclassified' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Isafjordsgatan' />
+  </way>
+  <way id='14977954' action='delete' timestamp='2015-04-12T15:35:40Z' uid='622545' user='FredN' visible='true' version='11' changeset='30165817'>
+    <tag k='access' v='no' />
+    <tag k='bicycle' v='yes' />
+    <tag k='highway' v='unclassified' />
+    <tag k='name' v='Torsnäsgatan' />
+    <tag k='psv' v='yes' />
+    <tag k='source' v='local_knowledge' />
+  </way>
+  <way id='22282911' action='delete' timestamp='2013-06-05T20:21:02Z' uid='211131' user='SnoopyOchCo' visible='true' version='6' changeset='16437139'>
+    <tag k='access' v='no' />
+    <tag k='bridge' v='yes' />
+    <tag k='highway' v='unclassified' />
+    <tag k='layer' v='1' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Kistagången' />
+  </way>
+  <way id='22282912' action='delete' timestamp='2013-06-05T20:21:02Z' uid='211131' user='SnoopyOchCo' visible='true' version='10' changeset='16437139'>
+    <tag k='access' v='no' />
+    <tag k='bicycle' v='yes' />
+    <tag k='bus' v='yes' />
+    <tag k='highway' v='unclassified' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Kistagången' />
+  </way>
+  <way id='23942685' action='delete' timestamp='2016-04-13T16:01:29Z' uid='622545' user='FredN' visible='true' version='8' changeset='38530070'>
+    <tag k='highway' v='unclassified' />
+    <tag k='name' v='Blåfjällsgatan' />
+  </way>
+  <way id='25444613' action='delete' timestamp='2016-03-13T18:00:26Z' uid='3705295' user='parha' visible='true' version='5' changeset='37804676'>
+    <tag k='building' v='yes' />
+    <tag k='building:height' v='25' />
+    <tag k='building:levels' v='5' />
+    <tag k='name' v='Ericsson house 04' />
+    <tag k='name:en' v='Ericsson House 04' />
+    <tag k='name:se' v='Ericsson Hus 04' />
+  </way>
+  <way id='28567534' action='delete' timestamp='2015-12-09T14:16:26Z' uid='438299' user='Essin' visible='true' version='14' changeset='35847163'>
+  </way>
+  <way id='31241174' action='delete' timestamp='2014-10-10T07:53:00Z' uid='308' user='MichaelCollinson' visible='true' version='9' changeset='25977135'>
+    <tag k='leisure' v='park' />
+    <tag k='source' v='Bing' />
+  </way>
+  <way id='37973706' action='delete' timestamp='2016-09-29T11:10:51Z' uid='128515' user='turepalsson' visible='true' version='2' changeset='42516057'>
+    <tag k='addr:city' v='Kista' />
+    <tag k='addr:housenumber' v='9' />
+    <tag k='addr:postcode' v='16440' />
+    <tag k='addr:street' v='Färögatan' />
+    <tag k='building' v='yes' />
+    <tag k='name' v='The Hub Hotel' />
+    <tag k='tourism' v='hotel' />
+  </way>
+  <way id='38019718' action='delete' timestamp='2014-03-29T21:28:05Z' uid='28775' user='StellanL' visible='true' version='7' changeset='21390481'>
+    <tag k='highway' v='unclassified' />
+    <tag k='name' v='Knarrarnäsgatan' />
+  </way>
+  <way id='38135372' action='delete' timestamp='2014-10-10T07:53:01Z' uid='308' user='MichaelCollinson' visible='true' version='4' changeset='25977135'>
+    <tag k='highway' v='unclassified' />
+    <tag k='name' v='Färögatan' />
+  </way>
+  <way id='38700986' action='delete' timestamp='2012-05-23T17:35:32Z' uid='687143' user='OakOMalm' visible='true' version='5' changeset='11682714'>
+    <tag k='bridge' v='yes' />
+    <tag k='highway' v='unclassified' />
+    <tag k='layer' v='2' />
+    <tag k='name' v='Färögatan' />
+  </way>
+  <way id='38700987' action='delete' timestamp='2009-08-08T06:12:13Z' uid='147572' user='granito' visible='true' version='1' changeset='2071786'>
+    <tag k='highway' v='unclassified' />
+    <tag k='name' v='Färögatan' />
+  </way>
+  <way id='40349896' action='delete' timestamp='2013-09-20T22:24:45Z' uid='28775' user='StellanL' visible='true' version='4' changeset='17948009'>
+    <tag k='highway' v='service' />
+  </way>
+  <way id='40503106' action='delete' timestamp='2014-10-11T12:12:19Z' uid='308' user='MichaelCollinson' visible='true' version='2' changeset='26002582'>
+    <tag k='building' v='yes' />
+    <tag k='source' v='Yahoo' />
+  </way>
+  <way id='40503107' action='delete' timestamp='2009-09-09T14:44:43Z' uid='35018' user='WingedStone' visible='true' version='1' changeset='2425493'>
+    <tag k='building' v='yes' />
+    <tag k='source' v='Yahoo' />
+  </way>
+  <way id='40503108' action='delete' timestamp='2009-09-09T14:44:45Z' uid='35018' user='WingedStone' visible='true' version='1' changeset='2425493'>
+    <tag k='building' v='yes' />
+    <tag k='source' v='Yahoo' />
+  </way>
+  <way id='40523151' action='delete' timestamp='2014-10-10T07:53:01Z' uid='308' user='MichaelCollinson' visible='true' version='15' changeset='25977135'>
+    <tag k='highway' v='unclassified' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Isafjordsgatan' />
+  </way>
+  <way id='40523152' action='delete' timestamp='2016-05-15T00:00:08Z' uid='28775' user='StellanL' visible='true' version='2' changeset='39322477'>
+    <tag k='access' v='no' />
+    <tag k='highway' v='footway' />
+    <tag k='source' v='local_knowledge' />
+    <tag k='tunnel' v='building_passage' />
+  </way>
+  <way id='40523153' action='delete' timestamp='2010-02-14T20:25:33Z' uid='76269' user='Snusmumriken' visible='true' version='3' changeset='3878129'>
+    <tag k='access' v='no' />
+    <tag k='highway' v='footway' />
+    <tag k='source' v='local_knowledge' />
+  </way>
+  <way id='41126088' action='delete' timestamp='2015-12-11T19:33:27Z' uid='622545' user='FredN' visible='true' version='12' changeset='35891707'>
+    <tag k='cycleway' v='track' />
+    <tag k='foot' v='yes' />
+    <tag k='highway' v='cycleway' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='41247006' action='delete' timestamp='2009-09-21T13:31:07Z' uid='35018' user='WingedStone' visible='true' version='1' changeset='2557173'>
+    <tag k='highway' v='footway' />
+  </way>
+  <way id='41247007' action='delete' timestamp='2009-09-21T13:31:07Z' uid='35018' user='WingedStone' visible='true' version='1' changeset='2557173'>
+    <tag k='highway' v='steps' />
+  </way>
+  <way id='41247008' action='delete' timestamp='2009-09-21T13:31:07Z' uid='35018' user='WingedStone' visible='true' version='1' changeset='2557173'>
+    <tag k='highway' v='steps' />
+  </way>
+  <way id='41253738' action='delete' timestamp='2009-12-07T18:42:46Z' uid='140698' user='olofsj' visible='true' version='2' changeset='3318286'>
+    <tag k='highway' v='footway' />
+  </way>
+  <way id='42108364' action='delete' timestamp='2014-03-16T16:54:25Z' uid='76269' user='Snusmumriken' visible='true' version='6' changeset='21139816'>
+    <tag k='bicycle' v='designated' />
+    <tag k='foot' v='designated' />
+    <tag k='highway' v='cycleway' />
+    <tag k='segregated' v='yes' />
+  </way>
+  <way id='42108368' action='delete' timestamp='2015-12-11T19:33:28Z' uid='622545' user='FredN' visible='true' version='2' changeset='35891707'>
+    <tag k='highway' v='pedestrian' />
+  </way>
+  <way id='42108375' action='delete' timestamp='2016-08-27T18:44:24Z' uid='2256461' user='bagis' visible='true' version='3' changeset='41742106'>
+    <tag k='highway' v='service' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='45779071' action='delete' timestamp='2012-05-25T13:06:05Z' uid='687143' user='OakOMalm' visible='true' version='3' changeset='11698362'>
+    <tag k='bicycle' v='designated' />
+    <tag k='foot' v='designated' />
+    <tag k='highway' v='cycleway' />
+    <tag k='segregated' v='yes' />
+  </way>
+  <way id='45829174' action='delete' timestamp='2015-10-11T07:23:29Z' uid='308' user='MichaelCollinson' visible='true' version='4' changeset='34563537'>
+    <tag k='bicycle' v='designated' />
+    <tag k='cycleway' v='shared' />
+    <tag k='foot' v='designated' />
+    <tag k='highway' v='cycleway' />
+    <tag k='source' v='survey' />
+  </way>
+  <way id='58432201' action='delete' timestamp='2012-02-08T08:25:25Z' uid='4592' user='Mirarkitty' visible='true' version='3' changeset='10621620'>
+    <tag k='height' v='2.1' />
+    <tag k='highway' v='service' />
+    <tag k='layer' v='0' />
+    <tag k='name' v='Hanstavägen' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='58432202' action='delete' timestamp='2014-08-20T19:54:00Z' uid='622545' user='FredN' visible='true' version='5' changeset='24894779'>
+    <tag k='highway' v='cycleway' />
+  </way>
+  <way id='58444789' action='delete' timestamp='2010-05-06T21:08:52Z' uid='35018' user='WingedStone' visible='true' version='1' changeset='4625679'>
+    <tag k='amenity' v='parking' />
+  </way>
+  <way id='58444895' action='delete' timestamp='2014-10-10T07:53:01Z' uid='308' user='MichaelCollinson' visible='true' version='2' changeset='25977135'>
+    <tag k='amenity' v='parking' />
+  </way>
+  <way id='58444896' action='delete' timestamp='2010-05-06T21:12:42Z' uid='35018' user='WingedStone' visible='true' version='1' changeset='4625679'>
+    <tag k='amenity' v='parking' />
+  </way>
+  <way id='70004372' action='delete' timestamp='2013-06-05T20:21:02Z' uid='211131' user='SnoopyOchCo' visible='true' version='2' changeset='16437139'>
+    <tag k='access' v='no' />
+    <tag k='bicycle' v='yes' />
+    <tag k='highway' v='unclassified' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Kistagången' />
+    <tag k='source' v='local_knowledge' />
+  </way>
+  <way id='70004374' action='delete' timestamp='2015-10-11T07:23:30Z' uid='308' user='MichaelCollinson' visible='true' version='2' changeset='34563537'>
+    <tag k='bicycle' v='designated' />
+    <tag k='cycleway' v='shared' />
+    <tag k='foot' v='designated' />
+    <tag k='highway' v='cycleway' />
+    <tag k='source' v='local_knowledge' />
+  </way>
+  <way id='70693435' action='delete' timestamp='2012-03-26T11:46:32Z' uid='35018' user='WingedStone' visible='true' version='2' changeset='11105024'>
+    <tag k='access' v='no' />
+    <tag k='highway' v='footway' />
+    <tag k='source' v='local_knowledge' />
+  </way>
+  <way id='70693436' action='delete' timestamp='2010-08-02T12:06:47Z' uid='320344' user='ricarlsson' visible='true' version='1' changeset='5379918'>
+    <tag k='access' v='no' />
+    <tag k='highway' v='footway' />
+    <tag k='source' v='local_knowledge' />
+  </way>
+  <way id='70693437' action='delete' timestamp='2014-10-11T12:12:18Z' uid='308' user='MichaelCollinson' visible='true' version='2' changeset='26002582'>
+    <tag k='access' v='no' />
+    <tag k='highway' v='footway' />
+    <tag k='source' v='local_knowledge' />
+  </way>
+  <way id='70693438' action='delete' timestamp='2014-10-11T12:12:18Z' uid='308' user='MichaelCollinson' visible='true' version='4' changeset='26002582'>
+    <tag k='access' v='no' />
+    <tag k='highway' v='footway' />
+    <tag k='source' v='local_knowledge' />
+  </way>
+  <way id='70693440' action='delete' timestamp='2010-08-03T10:45:12Z' uid='320344' user='ricarlsson' visible='true' version='2' changeset='5388648'>
+    <tag k='building' v='yes' />
+  </way>
+  <way id='71205395' action='delete' timestamp='2014-06-02T20:59:01Z' uid='622545' user='FredN' visible='true' version='6' changeset='22702886'>
+    <tag k='area' v='yes' />
+    <tag k='highway' v='pedestrian' />
+    <tag k='name' v='Jan Stenbecks Torg' />
+  </way>
+  <way id='138774257' action='delete' timestamp='2016-03-14T13:03:11Z' uid='3705295' user='parha' visible='true' version='17' changeset='37820278'>
+    <tag k='building' v='commercial' />
+    <tag k='building:height' v='11' />
+    <tag k='layer' v='1' />
+    <tag k='name' v='Kista Galleria' />
+    <tag k='shop' v='mall' />
+  </way>
+  <way id='149356029' action='delete' timestamp='2013-06-05T20:20:58Z' uid='211131' user='SnoopyOchCo' visible='true' version='2' changeset='16437139'>
+    <tag k='highway' v='secondary' />
+    <tag k='layer' v='-1' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Hanstavägen' />
+    <tag k='oneway' v='yes' />
+    <tag k='tunnel' v='yes' />
+  </way>
+  <way id='149356030' action='delete' timestamp='2013-11-08T09:56:28Z' uid='158153' user='jetthe' visible='true' version='6' changeset='18779230'>
+    <tag k='foot' v='no' />
+    <tag k='highway' v='secondary' />
+    <tag k='junction' v='roundabout' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Hanstavägen' />
+  </way>
+  <way id='149356038' action='delete' timestamp='2013-06-05T20:20:58Z' uid='211131' user='SnoopyOchCo' visible='true' version='2' changeset='16437139'>
+    <tag k='highway' v='secondary' />
+    <tag k='layer' v='-1' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Hanstavägen' />
+    <tag k='oneway' v='yes' />
+    <tag k='tunnel' v='yes' />
+  </way>
+  <way id='150940385' action='delete' timestamp='2014-05-17T16:46:46Z' uid='124870' user='Walkingmage' visible='true' version='3' changeset='22392133'>
+    <tag k='highway' v='pedestrian' />
+    <tag k='name' v='Tvärgången' />
+    <tag k='tunnel' v='yes' />
+  </way>
+  <way id='153529783' action='delete' timestamp='2013-06-05T20:20:58Z' uid='211131' user='SnoopyOchCo' visible='true' version='2' changeset='16437139'>
+    <tag k='highway' v='secondary' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Hanstavägen' />
+    <tag k='oneway' v='no' />
+    <tag k='source' v='Bing' />
+    <tag k='tunnel' v='yes' />
+  </way>
+  <way id='164733517' action='delete' timestamp='2012-05-23T18:08:59Z' uid='687143' user='OakOMalm' visible='true' version='1' changeset='11683020'>
+    <tag k='bicycle' v='yes' />
+    <tag k='highway' v='footway' />
+    <tag k='tunnel' v='yes' />
+  </way>
+  <way id='164930809' action='delete' timestamp='2012-05-25T13:06:04Z' uid='687143' user='OakOMalm' visible='true' version='1' changeset='11698362'>
+    <tag k='bicycle' v='designated' />
+    <tag k='bridge' v='yes' />
+    <tag k='foot' v='designated' />
+    <tag k='highway' v='cycleway' />
+    <tag k='layer' v='2' />
+    <tag k='segregated' v='yes' />
+  </way>
+  <way id='266624936' action='delete' timestamp='2014-03-16T16:54:15Z' uid='76269' user='Snusmumriken' visible='true' version='1' changeset='21139816'>
+    <tag k='highway' v='footway' />
+  </way>
+  <way id='274418183' action='delete' timestamp='2014-04-14T20:32:08Z' uid='124870' user='Walkingmage' visible='true' version='1' changeset='21695470'>
+    <tag k='highway' v='pedestrian' />
+    <tag k='note' v='stänger 22.30 tisdagkvällar' />
+    <tag k='tunnel' v='yes' />
+  </way>
+  <way id='282593828' action='delete' timestamp='2014-05-17T22:31:47Z' uid='124870' user='Walkingmage' visible='true' version='1' changeset='22397695'>
+    <tag k='highway' v='pedestrian' />
+    <tag k='name' v='Kistagången' />
+    <tag k='tunnel' v='yes' />
+  </way>
+  <way id='285979008' action='delete' timestamp='2014-06-02T20:59:53Z' uid='622545' user='FredN' visible='true' version='2' changeset='22702897'>
+    <tag k='highway' v='pedestrian' />
+    <tag k='tunnel' v='yes' />
+  </way>
+  <way id='307109119' action='delete' timestamp='2014-10-10T07:52:59Z' uid='308' user='MichaelCollinson' visible='true' version='1' changeset='25977135'>
+    <tag k='building' v='yes' />
+    <tag k='source' v='Bing' />
+  </way>
+  <way id='307109120' action='delete' timestamp='2016-03-13T15:55:08Z' uid='3705295' user='parha' visible='true' version='2' changeset='37802527'>
+    <tag k='building' v='yes' />
+    <tag k='building:height' v='39.5' />
+    <tag k='building:levels' v='5' />
+    <tag k='source' v='Bing' />
+  </way>
+  <way id='307290736' action='delete' timestamp='2015-04-12T15:35:40Z' uid='622545' user='FredN' visible='true' version='2' changeset='30165817'>
+    <tag k='public_transport' v='platform' />
+    <tag k='source' v='Bing' />
+  </way>
+  <way id='307290737' action='delete' timestamp='2015-04-12T15:35:40Z' uid='622545' user='FredN' visible='true' version='2' changeset='30165817'>
+    <tag k='public_transport' v='platform' />
+    <tag k='source' v='Bing' />
+  </way>
+  <way id='385461408' action='delete' timestamp='2015-12-11T19:33:27Z' uid='622545' user='FredN' visible='true' version='1' changeset='35891707'>
+    <tag k='highway' v='pedestrian' />
+  </way>
+  <way id='403492646' action='delete' timestamp='2016-03-14T12:51:52Z' uid='3705295' user='parha' visible='true' version='3' changeset='37820057'>
+    <tag k='building' v='yes' />
+    <tag k='building:height' v='48.5' />
+    <tag k='building:levels' v='13' />
+  </way>
+  <way id='403494377' action='delete' timestamp='2016-03-14T12:50:46Z' uid='3705295' user='parha' visible='true' version='3' changeset='37820036'>
+    <tag k='building' v='yes' />
+    <tag k='building:height' v='19' />
+    <tag k='building:levels' v='6' />
+  </way>
+  <way id='403494737' action='delete' timestamp='2016-03-14T12:53:41Z' uid='3705295' user='parha' visible='true' version='2' changeset='37820108'>
+    <tag k='building' v='yes' />
+    <tag k='building:height' v='17' />
+    <tag k='building:levels' v='6' />
+  </way>
+  <way id='403497620' action='delete' timestamp='2016-03-13T16:48:10Z' uid='3705295' user='parha' visible='true' version='2' changeset='37803534'>
+    <tag k='building' v='yes' />
+    <tag k='building:height' v='21' />
+    <tag k='building:levels' v='3' />
+    <tag k='name' v='Hekla' />
+  </way>
+  <way id='404123916' action='delete' timestamp='2016-03-16T19:26:31Z' uid='622545' user='FredN' visible='true' version='1' changeset='37880975'>
+    <tag k='highway' v='cycleway' />
+    <tag k='layer' v='-1' />
+    <tag k='tunnel' v='yes' />
+  </way>
+  <relation id='-2977' action='modify' visible='true'>
+    <member type='way' ref='-2404' role='left_lane_marking' />
+    <member type='way' ref='-2377' role='right_lane_marking' />
+    <tag k='type' v='lanelet' />
+  </relation>
+  <relation id='-2982' action='modify' visible='true'>
+    <member type='way' ref='-2404' role='left_lane_marking' />
+    <member type='way' ref='-2437' role='right_lane_marking' />
+    <tag k='type' v='lanelet' />
+  </relation>
+  <relation id='-2987' action='modify' visible='true'>
+    <member type='way' ref='-2363' role='left_lane_marking' />
+    <member type='way' ref='-2369' role='right_lane_marking' />
+    <tag k='type' v='lanelet' />
+  </relation>
+  <relation id='-2992' action='modify' visible='true'>
+    <member type='way' ref='-2363' role='left_lane_marking' />
+    <member type='way' ref='-2360' role='right_lane_marking' />
+    <tag k='type' v='lanelet' />
+  </relation>
+  <relation id='-2997' action='modify' visible='true'>
+    <member type='way' ref='-2627' role='left_lane_marking' />
+    <member type='way' ref='-2634' role='right_lane_marking' />
+    <tag k='type' v='lanelet' />
+  </relation>
+  <relation id='-3002' action='modify' visible='true'>
+    <member type='way' ref='-2627' role='left_lane_marking' />
+    <member type='way' ref='-2620' role='right_lane_marking' />
+    <tag k='type' v='lanelet' />
+  </relation>
+  <relation id='-3007' action='modify' visible='true'>
+    <member type='way' ref='-2464' role='left_lane_marking' />
+    <member type='way' ref='-2461' role='right_lane_marking' />
+    <tag k='type' v='lanelet' />
+  </relation>
+  <relation id='-3014' action='modify' visible='true'>
+    <member type='way' ref='-2464' role='left_lane_marking' />
+    <member type='way' ref='-2472' role='right_lane_marking' />
+    <tag k='type' v='lanelet' />
+  </relation>
+  <relation id='-3040' action='modify' visible='true'>
+    <member type='way' ref='-2528' role='left_lane_marking' />
+    <member type='way' ref='-2548' role='right_lane_marking' />
+    <tag k='type' v='lanelet' />
+  </relation>
+  <relation id='-3046' action='modify' visible='true'>
+    <member type='way' ref='-2528' role='left_lane_marking' />
+    <member type='way' ref='-2504' role='right_lane_marking' />
+    <tag k='type' v='lanelet' />
+  </relation>
+  <relation id='-3053' action='modify' visible='true'>
+    <member type='way' ref='-2491' role='left_lane_marking' />
+    <member type='way' ref='-2478' role='right_lane_marking' />
+    <tag k='type' v='lanelet' />
+  </relation>
+  <relation id='-3060' action='modify' visible='true'>
+    <member type='way' ref='-2491' role='left_lane_marking' />
+    <member type='way' ref='-2497' role='right_lane_marking' />
+    <tag k='type' v='lanelet' />
+  </relation>
+  <relation id='-3067' action='modify' visible='true'>
+    <member type='way' ref='-2604' role='left_lane_marking' />
+    <member type='way' ref='-2613' role='right_lane_marking' />
+    <tag k='type' v='lanelet' />
+  </relation>
+  <relation id='-3074' action='modify' visible='true'>
+    <member type='way' ref='-2604' role='left_lane_marking' />
+    <member type='way' ref='-2597' role='right_lane_marking' />
+    <tag k='type' v='lanelet' />
+  </relation>
+  <relation id='79125' action='delete' timestamp='2016-03-23T21:31:09Z' uid='3705295' user='parha' visible='true' version='13' changeset='38029329'>
+    <tag k='building' v='industrial' />
+    <tag k='building:colour' v='#995043' />
+    <tag k='building:height' v='19' />
+    <tag k='building:levels' v='7' />
+    <tag k='building:material' v='brick' />
+    <tag k='name' v='Ericsson hus 30' />
+    <tag k='name:en' v='Ericsson House 30' />
+    <tag k='type' v='multipolygon' />
+  </relation>
+  <relation id='238188' action='delete' timestamp='2015-11-28T14:17:54Z' uid='76269' user='Snusmumriken' visible='true' version='100' changeset='35629046'>
+    <tag k='name' v='Buss 155: Akalla - Brommaplan' />
+    <tag k='network' v='SL' />
+    <tag k='operator' v='Busslink Råsta' />
+    <tag k='ref' v='155' />
+    <tag k='route' v='bus' />
+    <tag k='type' v='route' />
+  </relation>
+  <relation id='238193' action='delete' timestamp='2016-04-12T11:23:14Z' uid='1845263' user='Tyrkel' visible='true' version='22' changeset='38497424'>
+    <tag k='network' v='SL' />
+    <tag k='ref' v='537XXX' />
+    <tag k='route' v='bus' />
+    <tag k='type' v='route' />
+  </relation>
+  <relation id='238196' action='delete' timestamp='2016-07-16T01:25:12Z' uid='438299' user='Essin' visible='true' version='9' changeset='40771626'>
+    <tag k='name' v='Buss 898' />
+    <tag k='network' v='UL' />
+    <tag k='ref' v='898' />
+    <tag k='route_master' v='bus' />
+    <tag k='type' v='route_master' />
+  </relation>
+  <relation id='358386' action='delete' timestamp='2016-03-13T15:55:08Z' uid='3705295' user='parha' visible='true' version='11' changeset='37802527'>
+    <tag k='name' v='Järva cykelled (7)' />
+    <tag k='network' v='lcn' />
+    <tag k='ref' v='J7' />
+    <tag k='route' v='bicycle' />
+    <tag k='type' v='route' />
+  </relation>
+  <relation id='2795826' action='delete' timestamp='2016-07-16T01:25:12Z' uid='438299' user='Essin' visible='true' version='4' changeset='40771626'>
+    <tag k='from' v='Enköping' />
+    <tag k='name' v='Buss 898: Enköping =&gt; Bålsta =&gt; Kista' />
+    <tag k='network' v='UL' />
+    <tag k='public_transport:version' v='2' />
+    <tag k='ref' v='898' />
+    <tag k='route' v='bus' />
+    <tag k='to' v='Kista' />
+    <tag k='type' v='route' />
+    <tag k='via' v='Bålsta' />
+  </relation>
+  <relation id='2795832' action='delete' timestamp='2016-07-16T01:25:13Z' uid='438299' user='Essin' visible='true' version='4' changeset='40771626'>
+    <tag k='from' v='Kista' />
+    <tag k='name' v='Buss 898: Kista =&gt; Bålsta =&gt; Enköping' />
+    <tag k='network' v='UL' />
+    <tag k='public_transport:version' v='2' />
+    <tag k='ref' v='898' />
+    <tag k='route' v='bus' />
+    <tag k='to' v='Enköping' />
+    <tag k='type' v='route' />
+    <tag k='via' v='Bålsta' />
+  </relation>
+  <relation id='2907311' action='delete' timestamp='2015-01-09T16:15:47Z' uid='368821' user='pcongre' visible='true' version='3' changeset='28021992'>
+    <tag k='name' v='Järva cykelled' />
+    <tag k='network' v='lcn' />
+    <tag k='note' v='This is intended to be a super-relation containing only the relations for each section.' />
+    <tag k='route' v='bicycle' />
+    <tag k='type' v='route' />
+  </relation>
+  <relation id='2910805' action='delete' timestamp='2015-05-03T06:44:44Z' uid='76269' user='Snusmumriken' visible='true' version='3' changeset='30739231'>
+    <tag k='colour' v='red' />
+    <tag k='name' v='Buss 627' />
+    <tag k='network' v='SL' />
+    <tag k='operator' v='Arriva' />
+    <tag k='route_master' v='bus' />
+    <tag k='type' v='route_master' />
+  </relation>
+  <relation id='3578411' action='delete' timestamp='2016-04-13T07:08:39Z' uid='3780113' user='Henrik Karlsson' visible='true' version='19' changeset='38517230'>
+    <tag k='colour' v='blue' />
+    <tag k='from' v='Jakobsbergs station' />
+    <tag k='name' v='Blåbuss 178: Jakobsbergs station - Mörby station' />
+    <tag k='network' v='SL' />
+    <tag k='ref' v='178' />
+    <tag k='route' v='bus' />
+    <tag k='to' v='Mörby station' />
+    <tag k='type' v='route' />
+  </relation>
+  <relation id='3578412' action='delete' timestamp='2016-04-13T07:08:38Z' uid='3780113' user='Henrik Karlsson' visible='true' version='21' changeset='38517230'>
+    <tag k='colour' v='blue' />
+    <tag k='from' v='Mörby station' />
+    <tag k='name' v='Blåbuss 178: Mörby station - Jakobsberg station' />
+    <tag k='network' v='SL' />
+    <tag k='ref' v='178' />
+    <tag k='route' v='bus' />
+    <tag k='to' v='Jakobsbergs station' />
+    <tag k='type' v='route' />
+  </relation>
+  <relation id='3684501' action='delete' timestamp='2016-04-23T13:40:11Z' uid='28775' user='StellanL' visible='true' version='14' changeset='38813385'>
+    <tag k='from' v='Häggviks handelsplats' />
+    <tag k='name' v='Buss 514: Häggviks handelsplats - Spånga station' />
+    <tag k='network' v='SL' />
+    <tag k='ref' v='514' />
+    <tag k='route' v='bus' />
+    <tag k='to' v='Spånga station' />
+    <tag k='type' v='route' />
+  </relation>
+  <relation id='3684502' action='delete' timestamp='2016-04-23T13:40:12Z' uid='28775' user='StellanL' visible='true' version='11' changeset='38813385'>
+    <tag k='from' v='Spånga station' />
+    <tag k='name' v='Buss 514: Spånga station - Häggviks handelsplats' />
+    <tag k='network' v='SL' />
+    <tag k='ref' v='514' />
+    <tag k='route' v='bus' />
+    <tag k='to' v='Häggviks handelsplats' />
+    <tag k='type' v='route' />
+  </relation>
+  <relation id='3684503' action='delete' timestamp='2014-04-25T20:46:57Z' uid='76269' user='Snusmumriken' visible='true' version='1' changeset='21942194'>
+    <tag k='name' v='Buss 514' />
+    <tag k='network' v='SL' />
+    <tag k='ref' v='514' />
+    <tag k='route_master' v='bus' />
+    <tag k='type' v='route_master' />
+  </relation>
+  <relation id='3706042' action='delete' timestamp='2016-06-26T18:39:22Z' uid='2040185' user='trik86' visible='true' version='10' changeset='40306367'>
+    <tag k='from' v='Kista centrum' />
+    <tag k='name' v='Buss 518: Kista centrum - Vällingby' />
+    <tag k='network' v='SL' />
+    <tag k='ref' v='518' />
+    <tag k='route' v='bus' />
+    <tag k='to' v='Vällingby' />
+    <tag k='type' v='route' />
+  </relation>
+  <relation id='3706043' action='delete' timestamp='2016-04-23T11:37:19Z' uid='28775' user='StellanL' visible='true' version='11' changeset='38810676'>
+    <tag k='from' v='Vällingby' />
+    <tag k='name' v='Buss 518: Vällingby - Kista centrum' />
+    <tag k='network' v='SL' />
+    <tag k='ref' v='518' />
+    <tag k='route' v='bus' />
+    <tag k='to' v='Kista centrum' />
+    <tag k='type' v='route' />
+  </relation>
+  <relation id='3706044' action='delete' timestamp='2014-05-01T20:47:20Z' uid='76269' user='Snusmumriken' visible='true' version='1' changeset='22072747'>
+    <tag k='name' v='Buss 518' />
+    <tag k='network' v='SL' />
+    <tag k='ref' v='518' />
+    <tag k='route_master' v='bus' />
+    <tag k='type' v='route_master' />
+  </relation>
+  <relation id='3713787' action='delete' timestamp='2016-04-13T07:08:41Z' uid='3780113' user='Henrik Karlsson' visible='true' version='6' changeset='38517230'>
+    <tag k='from' v='Kista centrum' />
+    <tag k='name' v='Buss 523: Kista centrum - Sollentuna station' />
+    <tag k='network' v='SL' />
+    <tag k='ref' v='523' />
+    <tag k='route' v='bus' />
+    <tag k='to' v='Sollentuna station' />
+    <tag k='type' v='route' />
+  </relation>
+  <relation id='3713788' action='delete' timestamp='2016-04-13T07:08:41Z' uid='3780113' user='Henrik Karlsson' visible='true' version='9' changeset='38517230'>
+    <tag k='from' v='Sollentuna station' />
+    <tag k='name' v='Buss 523: Sollentuna station - Kista centrum' />
+    <tag k='network' v='SL' />
+    <tag k='ref' v='523' />
+    <tag k='route' v='bus' />
+    <tag k='to' v='Kista centrum' />
+    <tag k='type' v='route' />
+  </relation>
+  <relation id='3713789' action='delete' timestamp='2014-05-04T05:15:11Z' uid='76269' user='Snusmumriken' visible='true' version='1' changeset='22118090'>
+    <tag k='name' v='Buss 523' />
+    <tag k='network' v='SL' />
+    <tag k='ref' v='523' />
+    <tag k='route_master' v='bus' />
+    <tag k='type' v='route_master' />
+  </relation>
+  <relation id='3828311' action='delete' timestamp='2015-12-09T14:51:31Z' uid='438299' user='Essin' visible='true' version='88' changeset='35847768'>
+    <tag k='name' v='Buss 537: Upplands Väsby station - Kista centrum' />
+    <tag k='operator' v='SL' />
+    <tag k='ref' v='537' />
+    <tag k='route' v='bus' />
+    <tag k='type' v='route' />
+  </relation>
+  <relation id='4085908' action='delete' timestamp='2014-10-04T10:31:32Z' uid='2256461' user='bagis' visible='true' version='2' changeset='25848815'>
+    <tag k='name' v='Buss 155' />
+    <tag k='route_master' v='bus' />
+    <tag k='type' v='route_master' />
+  </relation>
+  <relation id='4100913' action='delete' timestamp='2014-10-10T07:52:59Z' uid='308' user='MichaelCollinson' visible='true' version='1' changeset='25977135'>
+    <tag k='type' v='provides_feature' />
+  </relation>
+  <relation id='4545893' action='delete' timestamp='2015-05-23T21:42:48Z' uid='1705824' user='Yenx' visible='true' version='2' changeset='31407722'>
+    <tag k='colour' v='blue' />
+    <tag k='name' v='Blåbuss 178' />
+    <tag k='network' v='SL' />
+    <tag k='ref' v='178' />
+    <tag k='route_master' v='bus' />
+    <tag k='type' v='route_master' />
+  </relation>
+  <relation id='4858502' action='delete' timestamp='2015-12-05T16:59:22Z' uid='76269' user='Snusmumriken' visible='true' version='4' changeset='35772458'>
+    <tag k='from' v='Kista centrum' />
+    <tag k='name' v='Buss 627: Kista centrum - Åkerby industriområde' />
+    <tag k='network' v='SL' />
+    <tag k='ref' v='627' />
+    <tag k='route' v='bus' />
+    <tag k='to' v='Åkerby industriområde' />
+    <tag k='type' v='route' />
+  </relation>
+  <relation id='4858503' action='delete' timestamp='2015-12-05T16:59:23Z' uid='76269' user='Snusmumriken' visible='true' version='6' changeset='35772458'>
+    <tag k='from' v='Åkerby industriområde' />
+    <tag k='name' v='Buss 627: Åkerby industriområde - Kista centrum' />
+    <tag k='network' v='SL' />
+    <tag k='ref' v='627' />
+    <tag k='route' v='bus' />
+    <tag k='to' v='Kista centrum' />
+    <tag k='type' v='route' />
+  </relation>
+</osm>

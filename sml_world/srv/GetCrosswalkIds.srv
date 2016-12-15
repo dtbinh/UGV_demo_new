@@ -1,0 +1,3 @@
+# Return the ids of all crosswalks in a string
+---
+int32[] crosswalk_ids

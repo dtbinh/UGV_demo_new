@@ -1,0 +1,8 @@
+<launch>
+    <node pkg="sml_world" name="road_network" type="road_network.py" args="/resources/scenarios/KistaDemo2 True" />
+    <node pkg="sml_world" name="visualization" type="visualization.py" />
+    <node pkg="sml_world" name="sml_world_central" type="sml_world_central.py" />
+    <node pkg="rosservice" name="spawn_vehicle1" type="rosservice" args="call --wait /spawn_vehicle '{vehicle_id: 1, class_name: 'DummyVehicle', x: 0.0, y: 0.0, yaw: 0.8, v: 10.0, node_id: -400, toggle_sim: true}'" />
+    <node pkg="rosservice" name="spawn_vehicle2" type="rosservice" args="call --wait /spawn_vehicle '{vehicle_id: 2, class_name: 'DummyVehicle', x: 0.0, y: 0.0, yaw: 0.8, v: 10.0, node_id: -400, toggle_sim: true}'" />
+    <node pkg="rosservice" name="spawn_vehicle3" type="rosservice" args="call --wait /spawn_vehicle '{vehicle_id: 3, class_name: 'DummyVehicle', x: 0.0, y: 0.0, yaw: 0.8, v: 10.0, node_id: -400, toggle_sim: true}'" />
+</launch>

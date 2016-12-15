@@ -1,0 +1,4 @@
+# Service to allow user to manually add traffic
+
+int32 lanelet
+int32 traffic_level

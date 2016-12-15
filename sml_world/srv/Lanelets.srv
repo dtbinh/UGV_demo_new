@@ -1,0 +1,12 @@
+# Since ROS doesn't allow dictionaries, we will store the values
+# of the lanelet dict in sorted order, and store the amount of
+# values each key has. This will allow us to reconstruct the 
+# dictionary in any node that is listening. 
+
+---
+int32[] key_lengths
+int32[] values
+
+int32[] node_ids
+int32[] x_pos
+int32[] y_pos

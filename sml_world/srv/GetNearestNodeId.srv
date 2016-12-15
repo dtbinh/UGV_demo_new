@@ -1,0 +1,9 @@
+#If dest_id == -1, all nodes will be searched, not just the
+#ones connected to the destination id
+
+float64 x
+float64 y
+int32 dest_id
+bool search_all
+---
+int32 node_id

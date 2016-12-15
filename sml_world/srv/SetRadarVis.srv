@@ -1,0 +1,5 @@
+
+bool radar_state
+---
+bool success
+string message

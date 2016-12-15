@@ -1,0 +1,7 @@
+# Returns the id of the 2 crosswalk nodes
+# given the crosswalk_id
+
+int32 crosswalk_id
+---
+int32 node_1
+int32 node_2

@@ -1,0 +1,5 @@
+# Adds a bus stop
+# id is the id of the stop, which will throw an error 
+# if the id is not on the map
+
+int32 node_id

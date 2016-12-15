@@ -1,0 +1,5 @@
+# Provides vehicles a way of determining the traffic at their current node
+
+int32 node
+---
+int32 traffic_level

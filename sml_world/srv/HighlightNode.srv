@@ -1,0 +1,10 @@
+# node_id is the id of the node that should be removed from 
+# the next destinations of the semicontrolled vehicle;
+# namespace is the identifier of the vehicle sending the request
+# (it's needed to set the vehicle destination afterwards)
+
+int32 node_id
+string namespace
+---
+bool success
+string message

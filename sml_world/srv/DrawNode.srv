@@ -1,0 +1,5 @@
+bool highlight_node
+int32 node_index
+---
+bool success
+string msg

@@ -1,0 +1,6 @@
+int32 pedestrian_id
+int32 crosswalk_id
+bool toggle_sim
+---
+bool success
+string message
